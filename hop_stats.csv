@@ -1,0 +1,1748 @@
+start_article_title,starter_article_url,selection_strat,hops_to_phil
+
+Brian S. Miller,https://en.wikipedia.org/wiki/Brian_S._Miller,WORDNET,9
+
+Brian S. Miller,https://en.wikipedia.org/wiki/Brian_S._Miller,NTH_LINK(1),18
+
+Brian S. Miller,https://en.wikipedia.org/wiki/Brian_S._Miller,EMBEDDING_WORD2VEC,11
+
+Bleu Horses,https://en.wikipedia.org/wiki/Bleu_Horses,WORDNET,9
+
+Bleu Horses,https://en.wikipedia.org/wiki/Bleu_Horses,NTH_LINK(1),17
+
+Bleu Horses,https://en.wikipedia.org/wiki/Bleu_Horses,EMBEDDING_WORD2VEC,8
+
+Mphiwa Dlamini,https://en.wikipedia.org/wiki/Mphiwa_Dlamini,WORDNET,9
+
+Mphiwa Dlamini,https://en.wikipedia.org/wiki/Mphiwa_Dlamini,NTH_LINK(1),23
+
+Mphiwa Dlamini,https://en.wikipedia.org/wiki/Mphiwa_Dlamini,EMBEDDING_WORD2VEC,7
+
+Woldemeskel Kostre,https://en.wikipedia.org/wiki/Woldemeskel_Kostre,WORDNET,7
+
+Woldemeskel Kostre,https://en.wikipedia.org/wiki/Woldemeskel_Kostre,NTH_LINK(1),21
+
+Woldemeskel Kostre,https://en.wikipedia.org/wiki/Woldemeskel_Kostre,EMBEDDING_WORD2VEC,11
+
+George W. F. McMechen,https://en.wikipedia.org/wiki/George_W._F._McMechen,WORDNET,10
+
+George W. F. McMechen,https://en.wikipedia.org/wiki/George_W._F._McMechen,NTH_LINK(1),22
+
+George W. F. McMechen,https://en.wikipedia.org/wiki/George_W._F._McMechen,EMBEDDING_WORD2VEC,8
+
+Mishima: A Life in Four Chapters,https://en.wikipedia.org/wiki/Mishima:_A_Life_in_Four_Chapters,WORDNET,5
+
+Mishima: A Life in Four Chapters,https://en.wikipedia.org/wiki/Mishima:_A_Life_in_Four_Chapters,NTH_LINK(1),10
+
+Mishima: A Life in Four Chapters,https://en.wikipedia.org/wiki/Mishima:_A_Life_in_Four_Chapters,EMBEDDING_WORD2VEC,3
+
+Blue Stahli (album),https://en.wikipedia.org/wiki/Blue_Stahli_(album),WORDNET,10
+
+Blue Stahli (album),https://en.wikipedia.org/wiki/Blue_Stahli_(album),NTH_LINK(1),20
+
+Blue Stahli (album),https://en.wikipedia.org/wiki/Blue_Stahli_(album),EMBEDDING_WORD2VEC,10
+
+Libra oil field,https://en.wikipedia.org/wiki/Libra_oil_field,WORDNET,5
+
+Libra oil field,https://en.wikipedia.org/wiki/Libra_oil_field,NTH_LINK(1),23
+
+Libra oil field,https://en.wikipedia.org/wiki/Libra_oil_field,EMBEDDING_WORD2VEC,5
+
+Triton 24,https://en.wikipedia.org/wiki/Triton_24,WORDNET,12
+
+Triton 24,https://en.wikipedia.org/wiki/Triton_24,NTH_LINK(1),21
+
+Triton 24,https://en.wikipedia.org/wiki/Triton_24,EMBEDDING_WORD2VEC,8
+
+Ren Ziwei,https://en.wikipedia.org/wiki/Ren_Ziwei,WORDNET,11
+
+Ren Ziwei,https://en.wikipedia.org/wiki/Ren_Ziwei,NTH_LINK(1),17
+
+Ren Ziwei,https://en.wikipedia.org/wiki/Ren_Ziwei,EMBEDDING_WORD2VEC,11
+
+George Abramson,https://en.wikipedia.org/wiki/George_Abramson,WORDNET,13
+
+George Abramson,https://en.wikipedia.org/wiki/George_Abramson,NTH_LINK(1),18
+
+George Abramson,https://en.wikipedia.org/wiki/George_Abramson,EMBEDDING_WORD2VEC,8
+
+Live at the Hotel Seville,https://en.wikipedia.org/wiki/Live_at_the_Hotel_Seville,WORDNET,10
+
+Live at the Hotel Seville,https://en.wikipedia.org/wiki/Live_at_the_Hotel_Seville,NTH_LINK(1),18
+
+Live at the Hotel Seville,https://en.wikipedia.org/wiki/Live_at_the_Hotel_Seville,EMBEDDING_WORD2VEC,12
+
+Combat shotgun,https://en.wikipedia.org/wiki/Combat_shotgun,WORDNET,6
+
+Combat shotgun,https://en.wikipedia.org/wiki/Combat_shotgun,NTH_LINK(1),21
+
+Combat shotgun,https://en.wikipedia.org/wiki/Combat_shotgun,EMBEDDING_WORD2VEC,5
+
+John E. Powers,https://en.wikipedia.org/wiki/John_E._Powers,WORDNET,9
+
+John E. Powers,https://en.wikipedia.org/wiki/John_E._Powers,NTH_LINK(1),21
+
+John E. Powers,https://en.wikipedia.org/wiki/John_E._Powers,EMBEDDING_WORD2VEC,8
+
+Collision,https://en.wikipedia.org/wiki/Collision,WORDNET,2
+
+Collision,https://en.wikipedia.org/wiki/Collision,NTH_LINK(1),14
+
+Collision,https://en.wikipedia.org/wiki/Collision,EMBEDDING_WORD2VEC,2
+
+Manuel Franquelo,https://en.wikipedia.org/wiki/Manuel_Franquelo,WORDNET,3
+
+Manuel Franquelo,https://en.wikipedia.org/wiki/Manuel_Franquelo,NTH_LINK(1),19
+
+Manuel Franquelo,https://en.wikipedia.org/wiki/Manuel_Franquelo,EMBEDDING_WORD2VEC,5
+
+"Engeløy Airport, Grådussan","https://en.wikipedia.org/wiki/Engel%C3%B8y_Airport,_Gr%C3%A5dussan",WORDNET,8
+
+"Engeløy Airport, Grådussan","https://en.wikipedia.org/wiki/Engel%C3%B8y_Airport,_Gr%C3%A5dussan",NTH_LINK(1),22
+
+"Engeløy Airport, Grådussan","https://en.wikipedia.org/wiki/Engel%C3%B8y_Airport,_Gr%C3%A5dussan",EMBEDDING_WORD2VEC,6
+
+Rebecca Fromer,https://en.wikipedia.org/wiki/Rebecca_Fromer,WORDNET,12
+
+Rebecca Fromer,https://en.wikipedia.org/wiki/Rebecca_Fromer,NTH_LINK(1),12
+
+Rebecca Fromer,https://en.wikipedia.org/wiki/Rebecca_Fromer,EMBEDDING_WORD2VEC,13
+
+Private Chefs of Beverly Hills,https://en.wikipedia.org/wiki/Private_Chefs_of_Beverly_Hills,WORDNET,17
+
+Private Chefs of Beverly Hills,https://en.wikipedia.org/wiki/Private_Chefs_of_Beverly_Hills,NTH_LINK(1),8
+
+Private Chefs of Beverly Hills,https://en.wikipedia.org/wiki/Private_Chefs_of_Beverly_Hills,EMBEDDING_WORD2VEC,7
+
+Henry Street Gang,https://en.wikipedia.org/wiki/Henry_Street_Gang,WORDNET,9
+
+Henry Street Gang,https://en.wikipedia.org/wiki/Henry_Street_Gang,NTH_LINK(1),21
+
+Henry Street Gang,https://en.wikipedia.org/wiki/Henry_Street_Gang,EMBEDDING_WORD2VEC,9
+
+Curt VanderWall,https://en.wikipedia.org/wiki/Curt_VanderWall,WORDNET,7
+
+Curt VanderWall,https://en.wikipedia.org/wiki/Curt_VanderWall,NTH_LINK(1),23
+
+Curt VanderWall,https://en.wikipedia.org/wiki/Curt_VanderWall,EMBEDDING_WORD2VEC,7
+
+Barbara Craddock,https://en.wikipedia.org/wiki/Barbara_Craddock,WORDNET,12
+
+Barbara Craddock,https://en.wikipedia.org/wiki/Barbara_Craddock,NTH_LINK(1),16
+
+Barbara Craddock,https://en.wikipedia.org/wiki/Barbara_Craddock,EMBEDDING_WORD2VEC,10
+
+Kim Yusob,https://en.wikipedia.org/wiki/Kim_Yusob,WORDNET,7
+
+Kim Yusob,https://en.wikipedia.org/wiki/Kim_Yusob,NTH_LINK(1),17
+
+Kim Yusob,https://en.wikipedia.org/wiki/Kim_Yusob,EMBEDDING_WORD2VEC,11
+
+Enrique Octavio Trejo Azuara,https://en.wikipedia.org/wiki/Enrique_Octavio_Trejo_Azuara,WORDNET,8
+
+Enrique Octavio Trejo Azuara,https://en.wikipedia.org/wiki/Enrique_Octavio_Trejo_Azuara,NTH_LINK(1),4
+
+Enrique Octavio Trejo Azuara,https://en.wikipedia.org/wiki/Enrique_Octavio_Trejo_Azuara,EMBEDDING_WORD2VEC,7
+
+Freiflug,https://en.wikipedia.org/wiki/Freiflug,WORDNET,10
+
+Freiflug,https://en.wikipedia.org/wiki/Freiflug,NTH_LINK(1),14
+
+Freiflug,https://en.wikipedia.org/wiki/Freiflug,EMBEDDING_WORD2VEC,10
+
+1978 European Athletics Championships � Men's discus throw,https://en.wikipedia.org/wiki/1978_European_Athletics_Championships_%E2%80%93_Men%27s_discus_throw,WORDNET,10
+
+1978 European Athletics Championships � Men's discus throw,https://en.wikipedia.org/wiki/1978_European_Athletics_Championships_%E2%80%93_Men%27s_discus_throw,NTH_LINK(1),19
+
+1978 European Athletics Championships � Men's discus throw,https://en.wikipedia.org/wiki/1978_European_Athletics_Championships_%E2%80%93_Men%27s_discus_throw,EMBEDDING_WORD2VEC,6
+
+Energia Group,https://en.wikipedia.org/wiki/Energia_Group,WORDNET,5
+
+Energia Group,https://en.wikipedia.org/wiki/Energia_Group,NTH_LINK(1),17
+
+Energia Group,https://en.wikipedia.org/wiki/Energia_Group,EMBEDDING_WORD2VEC,4
+
+Klassische Philharmonie Bonn,https://en.wikipedia.org/wiki/Klassische_Philharmonie_Bonn,WORDNET,5
+
+Klassische Philharmonie Bonn,https://en.wikipedia.org/wiki/Klassische_Philharmonie_Bonn,NTH_LINK(1),19
+
+Klassische Philharmonie Bonn,https://en.wikipedia.org/wiki/Klassische_Philharmonie_Bonn,EMBEDDING_WORD2VEC,7
+
+Girlfriends' Guide to Divorce,https://en.wikipedia.org/wiki/Girlfriends%27_Guide_to_Divorce,WORDNET,10
+
+Girlfriends' Guide to Divorce,https://en.wikipedia.org/wiki/Girlfriends%27_Guide_to_Divorce,NTH_LINK(1),10
+
+Girlfriends' Guide to Divorce,https://en.wikipedia.org/wiki/Girlfriends%27_Guide_to_Divorce,EMBEDDING_WORD2VEC,6
+
+Regina Hillsdale,https://en.wikipedia.org/wiki/Regina_Hillsdale,WORDNET,8
+
+Regina Hillsdale,https://en.wikipedia.org/wiki/Regina_Hillsdale,NTH_LINK(1),19
+
+Regina Hillsdale,https://en.wikipedia.org/wiki/Regina_Hillsdale,EMBEDDING_WORD2VEC,12
+
+Robert Mangold,https://en.wikipedia.org/wiki/Robert_Mangold,WORDNET,8
+
+Robert Mangold,https://en.wikipedia.org/wiki/Robert_Mangold,NTH_LINK(1),18
+
+Robert Mangold,https://en.wikipedia.org/wiki/Robert_Mangold,EMBEDDING_WORD2VEC,8
+
+Akiko Kobayashi (voice actress),https://en.wikipedia.org/wiki/Akiko_Kobayashi_(voice_actress),WORDNET,9
+
+Akiko Kobayashi (voice actress),https://en.wikipedia.org/wiki/Akiko_Kobayashi_(voice_actress),NTH_LINK(1),24
+
+Akiko Kobayashi (voice actress),https://en.wikipedia.org/wiki/Akiko_Kobayashi_(voice_actress),EMBEDDING_WORD2VEC,8
+
+Saint Laurent (film),https://en.wikipedia.org/wiki/Saint_Laurent_(film),WORDNET,5
+
+Saint Laurent (film),https://en.wikipedia.org/wiki/Saint_Laurent_(film),NTH_LINK(1),10
+
+Saint Laurent (film),https://en.wikipedia.org/wiki/Saint_Laurent_(film),EMBEDDING_WORD2VEC,7
+
+Franz-Josef Deiters,https://en.wikipedia.org/wiki/Franz-Josef_Deiters,WORDNET,3
+
+Franz-Josef Deiters,https://en.wikipedia.org/wiki/Franz-Josef_Deiters,NTH_LINK(1),37
+
+Franz-Josef Deiters,https://en.wikipedia.org/wiki/Franz-Josef_Deiters,EMBEDDING_WORD2VEC,3
+
+Appling v. Walker,https://en.wikipedia.org/wiki/Appling_v._Walker,WORDNET,8
+
+Appling v. Walker,https://en.wikipedia.org/wiki/Appling_v._Walker,NTH_LINK(1),6
+
+Appling v. Walker,https://en.wikipedia.org/wiki/Appling_v._Walker,EMBEDDING_WORD2VEC,7
+
+Athlete (disambiguation),https://en.wikipedia.org/wiki/Athlete_(disambiguation),WORDNET,6
+
+Athlete (disambiguation),https://en.wikipedia.org/wiki/Athlete_(disambiguation),NTH_LINK(1),18
+
+Athlete (disambiguation),https://en.wikipedia.org/wiki/Athlete_(disambiguation),EMBEDDING_WORD2VEC,4
+
+Stephen Amell,https://en.wikipedia.org/wiki/Stephen_Amell,WORDNET,7
+
+Stephen Amell,https://en.wikipedia.org/wiki/Stephen_Amell,NTH_LINK(1),17
+
+Stephen Amell,https://en.wikipedia.org/wiki/Stephen_Amell,EMBEDDING_WORD2VEC,11
+
+Clover (album),https://en.wikipedia.org/wiki/Clover_(album),WORDNET,6
+
+Clover (album),https://en.wikipedia.org/wiki/Clover_(album),NTH_LINK(1),18
+
+Clover (album),https://en.wikipedia.org/wiki/Clover_(album),EMBEDDING_WORD2VEC,11
+
+Masu Bhurgri,https://en.wikipedia.org/wiki/Masu_Bhurgri,WORDNET,7
+
+Masu Bhurgri,https://en.wikipedia.org/wiki/Masu_Bhurgri,NTH_LINK(1),27
+
+Masu Bhurgri,https://en.wikipedia.org/wiki/Masu_Bhurgri,EMBEDDING_WORD2VEC,8
+
+Treasons Act 1649,https://en.wikipedia.org/wiki/Treasons_Act_1649,WORDNET,8
+
+Treasons Act 1649,https://en.wikipedia.org/wiki/Treasons_Act_1649,NTH_LINK(1),21
+
+Treasons Act 1649,https://en.wikipedia.org/wiki/Treasons_Act_1649,EMBEDDING_WORD2VEC,6
+
+Ferkauf Graduate School of Psychology,https://en.wikipedia.org/wiki/Ferkauf_Graduate_School_of_Psychology,WORDNET,6
+
+Ferkauf Graduate School of Psychology,https://en.wikipedia.org/wiki/Ferkauf_Graduate_School_of_Psychology,NTH_LINK(1),37
+
+Ferkauf Graduate School of Psychology,https://en.wikipedia.org/wiki/Ferkauf_Graduate_School_of_Psychology,EMBEDDING_WORD2VEC,6
+
+The New Arab,https://en.wikipedia.org/wiki/The_New_Arab,WORDNET,7
+
+The New Arab,https://en.wikipedia.org/wiki/The_New_Arab,NTH_LINK(1),18
+
+The New Arab,https://en.wikipedia.org/wiki/The_New_Arab,EMBEDDING_WORD2VEC,4
+
+Keene Champs,https://en.wikipedia.org/wiki/Keene_Champs,WORDNET,8
+
+Keene Champs,https://en.wikipedia.org/wiki/Keene_Champs,NTH_LINK(1),22
+
+Keene Champs,https://en.wikipedia.org/wiki/Keene_Champs,EMBEDDING_WORD2VEC,5
+
+Diabelli Variations (album),https://en.wikipedia.org/wiki/Diabelli_Variations_(album),WORDNET,5
+
+Diabelli Variations (album),https://en.wikipedia.org/wiki/Diabelli_Variations_(album),NTH_LINK(1),27
+
+Diabelli Variations (album),https://en.wikipedia.org/wiki/Diabelli_Variations_(album),EMBEDDING_WORD2VEC,7
+
+San Marino in the Eurovision Song Contest 2020,https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2020,WORDNET,11
+
+San Marino in the Eurovision Song Contest 2020,https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2020,NTH_LINK(1),19
+
+San Marino in the Eurovision Song Contest 2020,https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2020,EMBEDDING_WORD2VEC,8
+
+Harry S Truman State Park,https://en.wikipedia.org/wiki/Harry_S_Truman_State_Park,WORDNET,7
+
+Harry S Truman State Park,https://en.wikipedia.org/wiki/Harry_S_Truman_State_Park,NTH_LINK(1),20
+
+Harry S Truman State Park,https://en.wikipedia.org/wiki/Harry_S_Truman_State_Park,EMBEDDING_WORD2VEC,5
+
+"Thinthirineesvarar Temple, Tindivanam","https://en.wikipedia.org/wiki/Thinthirineesvarar_Temple,_Tindivanam",WORDNET,5
+
+"Thinthirineesvarar Temple, Tindivanam","https://en.wikipedia.org/wiki/Thinthirineesvarar_Temple,_Tindivanam",NTH_LINK(1),20
+
+"Thinthirineesvarar Temple, Tindivanam","https://en.wikipedia.org/wiki/Thinthirineesvarar_Temple,_Tindivanam",EMBEDDING_WORD2VEC,14
+
+Tom Blankenship,https://en.wikipedia.org/wiki/Tom_Blankenship,WORDNET,16
+
+Tom Blankenship,https://en.wikipedia.org/wiki/Tom_Blankenship,NTH_LINK(1),24
+
+Tom Blankenship,https://en.wikipedia.org/wiki/Tom_Blankenship,EMBEDDING_WORD2VEC,7
+
+Alex Stewart (boxer),https://en.wikipedia.org/wiki/Alex_Stewart_(boxer),WORDNET,10
+
+Alex Stewart (boxer),https://en.wikipedia.org/wiki/Alex_Stewart_(boxer),NTH_LINK(1),21
+
+Alex Stewart (boxer),https://en.wikipedia.org/wiki/Alex_Stewart_(boxer),EMBEDDING_WORD2VEC,9
+
+Thrissur Corporation Electricity Department,https://en.wikipedia.org/wiki/Thrissur_Corporation_Electricity_Department,WORDNET,8
+
+Thrissur Corporation Electricity Department,https://en.wikipedia.org/wiki/Thrissur_Corporation_Electricity_Department,NTH_LINK(1),20
+
+Thrissur Corporation Electricity Department,https://en.wikipedia.org/wiki/Thrissur_Corporation_Electricity_Department,EMBEDDING_WORD2VEC,13
+
+Joseph Bankman,https://en.wikipedia.org/wiki/Joseph_Bankman,WORDNET,7
+
+Joseph Bankman,https://en.wikipedia.org/wiki/Joseph_Bankman,NTH_LINK(1),21
+
+Joseph Bankman,https://en.wikipedia.org/wiki/Joseph_Bankman,EMBEDDING_WORD2VEC,8
+
+Irish Medical Times,https://en.wikipedia.org/wiki/Irish_Medical_Times,WORDNET,10
+
+Irish Medical Times,https://en.wikipedia.org/wiki/Irish_Medical_Times,NTH_LINK(1),19
+
+Irish Medical Times,https://en.wikipedia.org/wiki/Irish_Medical_Times,EMBEDDING_WORD2VEC,12
+
+Numbered highways in Indiana,https://en.wikipedia.org/wiki/Numbered_highways_in_Indiana,WORDNET,7
+
+Numbered highways in Indiana,https://en.wikipedia.org/wiki/Numbered_highways_in_Indiana,NTH_LINK(1),19
+
+Numbered highways in Indiana,https://en.wikipedia.org/wiki/Numbered_highways_in_Indiana,EMBEDDING_WORD2VEC,6
+
+Romano R.110,https://en.wikipedia.org/wiki/Romano_R.110,WORDNET,6
+
+Romano R.110,https://en.wikipedia.org/wiki/Romano_R.110,NTH_LINK(1),22
+
+Romano R.110,https://en.wikipedia.org/wiki/Romano_R.110,EMBEDDING_WORD2VEC,6
+
+Michel de Cubi�res,https://en.wikipedia.org/wiki/Michel_de_Cubi%C3%A8res,WORDNET,9
+
+Michel de Cubi�res,https://en.wikipedia.org/wiki/Michel_de_Cubi%C3%A8res,NTH_LINK(1),21
+
+Michel de Cubi�res,https://en.wikipedia.org/wiki/Michel_de_Cubi%C3%A8res,EMBEDDING_WORD2VEC,5
+
+Nicholas (Yarushevich),https://en.wikipedia.org/wiki/Nicholas_(Yarushevich),WORDNET,7
+
+Nicholas (Yarushevich),https://en.wikipedia.org/wiki/Nicholas_(Yarushevich),NTH_LINK(1),26
+
+Nicholas (Yarushevich),https://en.wikipedia.org/wiki/Nicholas_(Yarushevich),EMBEDDING_WORD2VEC,13
+
+Cristiana Brandolini d'Adda,https://en.wikipedia.org/wiki/Cristiana_Brandolini_d%27Adda,WORDNET,10
+
+Cristiana Brandolini d'Adda,https://en.wikipedia.org/wiki/Cristiana_Brandolini_d%27Adda,NTH_LINK(1),22
+
+Cristiana Brandolini d'Adda,https://en.wikipedia.org/wiki/Cristiana_Brandolini_d%27Adda,EMBEDDING_WORD2VEC,3
+
+Controlled Conversations,https://en.wikipedia.org/wiki/Controlled_Conversations,WORDNET,8
+
+Controlled Conversations,https://en.wikipedia.org/wiki/Controlled_Conversations,NTH_LINK(1),18
+
+Controlled Conversations,https://en.wikipedia.org/wiki/Controlled_Conversations,EMBEDDING_WORD2VEC,5
+
+O Malho,https://en.wikipedia.org/wiki/O_Malho,WORDNET,11
+
+O Malho,https://en.wikipedia.org/wiki/O_Malho,NTH_LINK(1),9
+
+O Malho,https://en.wikipedia.org/wiki/O_Malho,EMBEDDING_WORD2VEC,3
+
+KZBB,https://en.wikipedia.org/wiki/KZBB,WORDNET,6
+
+KZBB,https://en.wikipedia.org/wiki/KZBB,NTH_LINK(1),17
+
+KZBB,https://en.wikipedia.org/wiki/KZBB,EMBEDDING_WORD2VEC,9
+
+Walter Burkert,https://en.wikipedia.org/wiki/Walter_Burkert,WORDNET,4
+
+Walter Burkert,https://en.wikipedia.org/wiki/Walter_Burkert,NTH_LINK(1),19
+
+Walter Burkert,https://en.wikipedia.org/wiki/Walter_Burkert,EMBEDDING_WORD2VEC,6
+
+Bruce Hampton,https://en.wikipedia.org/wiki/Bruce_Hampton,WORDNET,5
+
+Bruce Hampton,https://en.wikipedia.org/wiki/Bruce_Hampton,NTH_LINK(1),21
+
+Bruce Hampton,https://en.wikipedia.org/wiki/Bruce_Hampton,EMBEDDING_WORD2VEC,5
+
+Alcubierre drive,https://en.wikipedia.org/wiki/Alcubierre_drive,WORDNET,2
+
+Alcubierre drive,https://en.wikipedia.org/wiki/Alcubierre_drive,NTH_LINK(1),17
+
+Alcubierre drive,https://en.wikipedia.org/wiki/Alcubierre_drive,EMBEDDING_WORD2VEC,2
+
+John Cornford,https://en.wikipedia.org/wiki/John_Cornford,WORDNET,8
+
+John Cornford,https://en.wikipedia.org/wiki/John_Cornford,NTH_LINK(1),18
+
+John Cornford,https://en.wikipedia.org/wiki/John_Cornford,EMBEDDING_WORD2VEC,8
+
+2019 CS Finlandia Trophy,https://en.wikipedia.org/wiki/2019_CS_Finlandia_Trophy,WORDNET,12
+
+2019 CS Finlandia Trophy,https://en.wikipedia.org/wiki/2019_CS_Finlandia_Trophy,NTH_LINK(1),19
+
+2019 CS Finlandia Trophy,https://en.wikipedia.org/wiki/2019_CS_Finlandia_Trophy,EMBEDDING_WORD2VEC,9
+
+Jes�s Arredondo Vel�zquez,https://en.wikipedia.org/wiki/Jes%C3%BAs_Arredondo_Vel%C3%A1zquez,WORDNET,8
+
+Jes�s Arredondo Vel�zquez,https://en.wikipedia.org/wiki/Jes%C3%BAs_Arredondo_Vel%C3%A1zquez,NTH_LINK(1),4
+
+Jes�s Arredondo Vel�zquez,https://en.wikipedia.org/wiki/Jes%C3%BAs_Arredondo_Vel%C3%A1zquez,EMBEDDING_WORD2VEC,7
+
+Departmental Council of Finist�re,https://en.wikipedia.org/wiki/Departmental_Council_of_Finist%C3%A8re,WORDNET,6
+
+Departmental Council of Finist�re,https://en.wikipedia.org/wiki/Departmental_Council_of_Finist%C3%A8re,NTH_LINK(1),18
+
+Departmental Council of Finist�re,https://en.wikipedia.org/wiki/Departmental_Council_of_Finist%C3%A8re,EMBEDDING_WORD2VEC,4
+
+List of operatic pop artists,https://en.wikipedia.org/wiki/List_of_operatic_pop_artists,WORDNET,4
+
+List of operatic pop artists,https://en.wikipedia.org/wiki/List_of_operatic_pop_artists,NTH_LINK(1),17
+
+List of operatic pop artists,https://en.wikipedia.org/wiki/List_of_operatic_pop_artists,EMBEDDING_WORD2VEC,6
+
+Elisabeth Frink,https://en.wikipedia.org/wiki/Elisabeth_Frink,WORDNET,5
+
+Elisabeth Frink,https://en.wikipedia.org/wiki/Elisabeth_Frink,NTH_LINK(1),14
+
+Elisabeth Frink,https://en.wikipedia.org/wiki/Elisabeth_Frink,EMBEDDING_WORD2VEC,5
+
+Symplocamide A,https://en.wikipedia.org/wiki/Symplocamide_A,WORDNET,5
+
+Symplocamide A,https://en.wikipedia.org/wiki/Symplocamide_A,NTH_LINK(1),16
+
+Symplocamide A,https://en.wikipedia.org/wiki/Symplocamide_A,EMBEDDING_WORD2VEC,11
+
+Walang Panginoon,https://en.wikipedia.org/wiki/Walang_Panginoon,WORDNET,2
+
+Walang Panginoon,https://en.wikipedia.org/wiki/Walang_Panginoon,NTH_LINK(1),11
+
+Walang Panginoon,https://en.wikipedia.org/wiki/Walang_Panginoon,EMBEDDING_WORD2VEC,2
+
+Ephemera compar,https://en.wikipedia.org/wiki/Ephemera_compar,WORDNET,10
+
+Ephemera compar,https://en.wikipedia.org/wiki/Ephemera_compar,NTH_LINK(1),16
+
+Ephemera compar,https://en.wikipedia.org/wiki/Ephemera_compar,EMBEDDING_WORD2VEC,5
+
+John Godfrey Saxe II,https://en.wikipedia.org/wiki/John_Godfrey_Saxe_II,WORDNET,9
+
+John Godfrey Saxe II,https://en.wikipedia.org/wiki/John_Godfrey_Saxe_II,NTH_LINK(1),31
+
+John Godfrey Saxe II,https://en.wikipedia.org/wiki/John_Godfrey_Saxe_II,EMBEDDING_WORD2VEC,7
+
+List of colonial governors in 1703,https://en.wikipedia.org/wiki/List_of_colonial_governors_in_1703,WORDNET,4
+
+List of colonial governors in 1703,https://en.wikipedia.org/wiki/List_of_colonial_governors_in_1703,NTH_LINK(1),17
+
+List of colonial governors in 1703,https://en.wikipedia.org/wiki/List_of_colonial_governors_in_1703,EMBEDDING_WORD2VEC,6
+
+John Cameron (anatomist),https://en.wikipedia.org/wiki/John_Cameron_(anatomist),WORDNET,9
+
+John Cameron (anatomist),https://en.wikipedia.org/wiki/John_Cameron_(anatomist),NTH_LINK(1),18
+
+John Cameron (anatomist),https://en.wikipedia.org/wiki/John_Cameron_(anatomist),EMBEDDING_WORD2VEC,8
+
+Baby Jane Hudson,https://en.wikipedia.org/wiki/Baby_Jane_Hudson,WORDNET,9
+
+Baby Jane Hudson,https://en.wikipedia.org/wiki/Baby_Jane_Hudson,NTH_LINK(1),22
+
+Baby Jane Hudson,https://en.wikipedia.org/wiki/Baby_Jane_Hudson,EMBEDDING_WORD2VEC,7
+
+Ian Wilson (composer),https://en.wikipedia.org/wiki/Ian_Wilson_(composer),WORDNET,9
+
+Ian Wilson (composer),https://en.wikipedia.org/wiki/Ian_Wilson_(composer),NTH_LINK(1),16
+
+Ian Wilson (composer),https://en.wikipedia.org/wiki/Ian_Wilson_(composer),EMBEDDING_WORD2VEC,9
+
+Emelie Garbers,https://en.wikipedia.org/wiki/Emelie_Garbers,WORDNET,9
+
+Emelie Garbers,https://en.wikipedia.org/wiki/Emelie_Garbers,NTH_LINK(1),10
+
+Emelie Garbers,https://en.wikipedia.org/wiki/Emelie_Garbers,EMBEDDING_WORD2VEC,9
+
+Just an Old Fashioned Love Song,https://en.wikipedia.org/wiki/Just_an_Old_Fashioned_Love_Song,WORDNET,12
+
+Just an Old Fashioned Love Song,https://en.wikipedia.org/wiki/Just_an_Old_Fashioned_Love_Song,NTH_LINK(1),10
+
+Just an Old Fashioned Love Song,https://en.wikipedia.org/wiki/Just_an_Old_Fashioned_Love_Song,EMBEDDING_WORD2VEC,12
+
+Zhang Zhenshi,https://en.wikipedia.org/wiki/Zhang_Zhenshi,WORDNET,3
+
+Zhang Zhenshi,https://en.wikipedia.org/wiki/Zhang_Zhenshi,NTH_LINK(1),3
+
+Zhang Zhenshi,https://en.wikipedia.org/wiki/Zhang_Zhenshi,EMBEDDING_WORD2VEC,9
+
+Bohemia in London,https://en.wikipedia.org/wiki/Bohemia_in_London,WORDNET,6
+
+Bohemia in London,https://en.wikipedia.org/wiki/Bohemia_in_London,NTH_LINK(1),16
+
+Bohemia in London,https://en.wikipedia.org/wiki/Bohemia_in_London,EMBEDDING_WORD2VEC,10
+
+Church of Our Lady of Sarl�s,https://en.wikipedia.org/wiki/Church_of_Our_Lady_of_Sarl%C3%B3s,WORDNET,7
+
+Church of Our Lady of Sarl�s,https://en.wikipedia.org/wiki/Church_of_Our_Lady_of_Sarl%C3%B3s,NTH_LINK(1),19
+
+Church of Our Lady of Sarl�s,https://en.wikipedia.org/wiki/Church_of_Our_Lady_of_Sarl%C3%B3s,EMBEDDING_WORD2VEC,8
+
+United States Society for Education through Art,https://en.wikipedia.org/wiki/United_States_Society_for_Education_through_Art,WORDNET,8
+
+United States Society for Education through Art,https://en.wikipedia.org/wiki/United_States_Society_for_Education_through_Art,NTH_LINK(1),18
+
+United States Society for Education through Art,https://en.wikipedia.org/wiki/United_States_Society_for_Education_through_Art,EMBEDDING_WORD2VEC,3
+
+Yukinoyama Kofun,https://en.wikipedia.org/wiki/Yukinoyama_Kofun,WORDNET,4
+
+Yukinoyama Kofun,https://en.wikipedia.org/wiki/Yukinoyama_Kofun,NTH_LINK(1),29
+
+Yukinoyama Kofun,https://en.wikipedia.org/wiki/Yukinoyama_Kofun,EMBEDDING_WORD2VEC,8
+
+Jesse Prinz,https://en.wikipedia.org/wiki/Jesse_Prinz,WORDNET,1
+
+Jesse Prinz,https://en.wikipedia.org/wiki/Jesse_Prinz,NTH_LINK(1),1
+
+Jesse Prinz,https://en.wikipedia.org/wiki/Jesse_Prinz,EMBEDDING_WORD2VEC,1
+
+Ethel Tracy Richardson,https://en.wikipedia.org/wiki/Ethel_Tracy_Richardson,WORDNET,10
+
+Ethel Tracy Richardson,https://en.wikipedia.org/wiki/Ethel_Tracy_Richardson,NTH_LINK(1),23
+
+Ethel Tracy Richardson,https://en.wikipedia.org/wiki/Ethel_Tracy_Richardson,EMBEDDING_WORD2VEC,5
+
+Alan J. Greiman,https://en.wikipedia.org/wiki/Alan_J._Greiman,WORDNET,7
+
+Alan J. Greiman,https://en.wikipedia.org/wiki/Alan_J._Greiman,NTH_LINK(1),21
+
+Alan J. Greiman,https://en.wikipedia.org/wiki/Alan_J._Greiman,EMBEDDING_WORD2VEC,8
+
+Khalid Maqbool Siddiqui,https://en.wikipedia.org/wiki/Khalid_Maqbool_Siddiqui,WORDNET,8
+
+Khalid Maqbool Siddiqui,https://en.wikipedia.org/wiki/Khalid_Maqbool_Siddiqui,NTH_LINK(1),21
+
+Khalid Maqbool Siddiqui,https://en.wikipedia.org/wiki/Khalid_Maqbool_Siddiqui,EMBEDDING_WORD2VEC,9
+
+Road speed skating at the 2017 World Games � Women's 200 m time trial,https://en.wikipedia.org/wiki/Road_speed_skating_at_the_2017_World_Games_%E2%80%93_Women%27s_200_m_time_trial,WORDNET,5
+
+Road speed skating at the 2017 World Games � Women's 200 m time trial,https://en.wikipedia.org/wiki/Road_speed_skating_at_the_2017_World_Games_%E2%80%93_Women%27s_200_m_time_trial,NTH_LINK(1),18
+
+Road speed skating at the 2017 World Games � Women's 200 m time trial,https://en.wikipedia.org/wiki/Road_speed_skating_at_the_2017_World_Games_%E2%80%93_Women%27s_200_m_time_trial,EMBEDDING_WORD2VEC,6
+
+Leamside line,https://en.wikipedia.org/wiki/Leamside_line,WORDNET,14
+
+Leamside line,https://en.wikipedia.org/wiki/Leamside_line,NTH_LINK(1),21
+
+Leamside line,https://en.wikipedia.org/wiki/Leamside_line,EMBEDDING_WORD2VEC,5
+
+Islay Lee,https://en.wikipedia.org/wiki/Islay_Lee,WORDNET,8
+
+Islay Lee,https://en.wikipedia.org/wiki/Islay_Lee,NTH_LINK(1),19
+
+Islay Lee,https://en.wikipedia.org/wiki/Islay_Lee,EMBEDDING_WORD2VEC,8
+
+"East Russell, Queensland","https://en.wikipedia.org/wiki/East_Russell,_Queensland",WORDNET,13
+
+"East Russell, Queensland","https://en.wikipedia.org/wiki/East_Russell,_Queensland",NTH_LINK(1),18
+
+"East Russell, Queensland","https://en.wikipedia.org/wiki/East_Russell,_Queensland",EMBEDDING_WORD2VEC,7
+
+William Cowper (Dean of Sydney),https://en.wikipedia.org/wiki/William_Cowper_(Dean_of_Sydney),WORDNET,6
+
+William Cowper (Dean of Sydney),https://en.wikipedia.org/wiki/William_Cowper_(Dean_of_Sydney),NTH_LINK(1),20
+
+William Cowper (Dean of Sydney),https://en.wikipedia.org/wiki/William_Cowper_(Dean_of_Sydney),EMBEDDING_WORD2VEC,9
+
+Daniel S. Papp,https://en.wikipedia.org/wiki/Daniel_S._Papp,WORDNET,2
+
+Daniel S. Papp,https://en.wikipedia.org/wiki/Daniel_S._Papp,NTH_LINK(1),37
+
+Daniel S. Papp,https://en.wikipedia.org/wiki/Daniel_S._Papp,EMBEDDING_WORD2VEC,3
+
+Wind from the East,https://en.wikipedia.org/wiki/Wind_from_the_East,WORDNET,4
+
+Wind from the East,https://en.wikipedia.org/wiki/Wind_from_the_East,NTH_LINK(1),22
+
+Wind from the East,https://en.wikipedia.org/wiki/Wind_from_the_East,EMBEDDING_WORD2VEC,4
+
+Richard W. Bailey,https://en.wikipedia.org/wiki/Richard_W._Bailey,WORDNET,3
+
+Richard W. Bailey,https://en.wikipedia.org/wiki/Richard_W._Bailey,NTH_LINK(1),24
+
+Richard W. Bailey,https://en.wikipedia.org/wiki/Richard_W._Bailey,EMBEDDING_WORD2VEC,8
+
+List of harmonium players,https://en.wikipedia.org/wiki/List_of_harmonium_players,WORDNET,10
+
+List of harmonium players,https://en.wikipedia.org/wiki/List_of_harmonium_players,NTH_LINK(1),18
+
+List of harmonium players,https://en.wikipedia.org/wiki/List_of_harmonium_players,EMBEDDING_WORD2VEC,8
+
+Manly Town Hall,https://en.wikipedia.org/wiki/Manly_Town_Hall,WORDNET,13
+
+Manly Town Hall,https://en.wikipedia.org/wiki/Manly_Town_Hall,NTH_LINK(1),20
+
+Manly Town Hall,https://en.wikipedia.org/wiki/Manly_Town_Hall,EMBEDDING_WORD2VEC,5
+
+Joseph Bataillon,https://en.wikipedia.org/wiki/Joseph_Bataillon,WORDNET,10
+
+Joseph Bataillon,https://en.wikipedia.org/wiki/Joseph_Bataillon,NTH_LINK(1),18
+
+Joseph Bataillon,https://en.wikipedia.org/wiki/Joseph_Bataillon,EMBEDDING_WORD2VEC,10
+
+Nightrunners of Bengal,https://en.wikipedia.org/wiki/Nightrunners_of_Bengal,WORDNET,5
+
+Nightrunners of Bengal,https://en.wikipedia.org/wiki/Nightrunners_of_Bengal,NTH_LINK(1),20
+
+Nightrunners of Bengal,https://en.wikipedia.org/wiki/Nightrunners_of_Bengal,EMBEDDING_WORD2VEC,7
+
+Charbari,https://en.wikipedia.org/wiki/Charbari,WORDNET,9
+
+Charbari,https://en.wikipedia.org/wiki/Charbari,NTH_LINK(1),19
+
+Charbari,https://en.wikipedia.org/wiki/Charbari,EMBEDDING_WORD2VEC,8
+
+Olesko,https://en.wikipedia.org/wiki/Olesko,WORDNET,9
+
+Olesko,https://en.wikipedia.org/wiki/Olesko,NTH_LINK(1),17
+
+Olesko,https://en.wikipedia.org/wiki/Olesko,EMBEDDING_WORD2VEC,5
+
+Yevgeniy Terletskiy,https://en.wikipedia.org/wiki/Yevgeniy_Terletskiy,WORDNET,8
+
+Yevgeniy Terletskiy,https://en.wikipedia.org/wiki/Yevgeniy_Terletskiy,NTH_LINK(1),23
+
+Yevgeniy Terletskiy,https://en.wikipedia.org/wiki/Yevgeniy_Terletskiy,EMBEDDING_WORD2VEC,7
+
+Pileni,https://en.wikipedia.org/wiki/Pileni,WORDNET,5
+
+Pileni,https://en.wikipedia.org/wiki/Pileni,NTH_LINK(1),24
+
+Pileni,https://en.wikipedia.org/wiki/Pileni,EMBEDDING_WORD2VEC,8
+
+Debrecen,https://en.wikipedia.org/wiki/Debrecen,WORDNET,7
+
+Debrecen,https://en.wikipedia.org/wiki/Debrecen,NTH_LINK(1),12
+
+Debrecen,https://en.wikipedia.org/wiki/Debrecen,EMBEDDING_WORD2VEC,5
+
+Paolo Rondelli,https://en.wikipedia.org/wiki/Paolo_Rondelli,WORDNET,8
+
+Paolo Rondelli,https://en.wikipedia.org/wiki/Paolo_Rondelli,NTH_LINK(1),19
+
+Paolo Rondelli,https://en.wikipedia.org/wiki/Paolo_Rondelli,EMBEDDING_WORD2VEC,6
+
+Ministry of Education Language Centre,https://en.wikipedia.org/wiki/Ministry_of_Education_Language_Centre,WORDNET,5
+
+Ministry of Education Language Centre,https://en.wikipedia.org/wiki/Ministry_of_Education_Language_Centre,NTH_LINK(1),34
+
+Ministry of Education Language Centre,https://en.wikipedia.org/wiki/Ministry_of_Education_Language_Centre,EMBEDDING_WORD2VEC,7
+
+Puredyne,https://en.wikipedia.org/wiki/Puredyne,WORDNET,9
+
+Puredyne,https://en.wikipedia.org/wiki/Puredyne,NTH_LINK(1),20
+
+Puredyne,https://en.wikipedia.org/wiki/Puredyne,EMBEDDING_WORD2VEC,11
+
+"Swanton, Ohio","https://en.wikipedia.org/wiki/Swanton,_Ohio",WORDNET,9
+
+"Swanton, Ohio","https://en.wikipedia.org/wiki/Swanton,_Ohio",NTH_LINK(1),19
+
+"Swanton, Ohio","https://en.wikipedia.org/wiki/Swanton,_Ohio",EMBEDDING_WORD2VEC,5
+
+The Trees (Everett novel),https://en.wikipedia.org/wiki/The_Trees_(Everett_novel),WORDNET,12
+
+The Trees (Everett novel),https://en.wikipedia.org/wiki/The_Trees_(Everett_novel),NTH_LINK(1),38
+
+The Trees (Everett novel),https://en.wikipedia.org/wiki/The_Trees_(Everett_novel),EMBEDDING_WORD2VEC,9
+
+January 2019 Bambari clashes,https://en.wikipedia.org/wiki/January_2019_Bambari_clashes,WORDNET,7
+
+January 2019 Bambari clashes,https://en.wikipedia.org/wiki/January_2019_Bambari_clashes,NTH_LINK(1),24
+
+January 2019 Bambari clashes,https://en.wikipedia.org/wiki/January_2019_Bambari_clashes,EMBEDDING_WORD2VEC,8
+
+Don Van Natta Jr.,https://en.wikipedia.org/wiki/Don_Van_Natta_Jr.,WORDNET,3
+
+Don Van Natta Jr.,https://en.wikipedia.org/wiki/Don_Van_Natta_Jr.,NTH_LINK(1),11
+
+Don Van Natta Jr.,https://en.wikipedia.org/wiki/Don_Van_Natta_Jr.,EMBEDDING_WORD2VEC,3
+
+Bivens Arm,https://en.wikipedia.org/wiki/Bivens_Arm,WORDNET,14
+
+Bivens Arm,https://en.wikipedia.org/wiki/Bivens_Arm,NTH_LINK(1),19
+
+Bivens Arm,https://en.wikipedia.org/wiki/Bivens_Arm,EMBEDDING_WORD2VEC,5
+
+Maya Even,https://en.wikipedia.org/wiki/Maya_Even,WORDNET,9
+
+Maya Even,https://en.wikipedia.org/wiki/Maya_Even,NTH_LINK(1),8
+
+Maya Even,https://en.wikipedia.org/wiki/Maya_Even,EMBEDDING_WORD2VEC,9
+
+Flogging a dead horse,https://en.wikipedia.org/wiki/Flogging_a_dead_horse,WORDNET,10
+
+Flogging a dead horse,https://en.wikipedia.org/wiki/Flogging_a_dead_horse,NTH_LINK(1),15
+
+Flogging a dead horse,https://en.wikipedia.org/wiki/Flogging_a_dead_horse,EMBEDDING_WORD2VEC,3
+
+Prashant Kumar Bundela,https://en.wikipedia.org/wiki/Prashant_Kumar_Bundela,WORDNET,9
+
+Prashant Kumar Bundela,https://en.wikipedia.org/wiki/Prashant_Kumar_Bundela,NTH_LINK(1),19
+
+Prashant Kumar Bundela,https://en.wikipedia.org/wiki/Prashant_Kumar_Bundela,EMBEDDING_WORD2VEC,7
+
+Margreta de Grazia,https://en.wikipedia.org/wiki/Margreta_de_Grazia,WORDNET,3
+
+Margreta de Grazia,https://en.wikipedia.org/wiki/Margreta_de_Grazia,NTH_LINK(1),22
+
+Margreta de Grazia,https://en.wikipedia.org/wiki/Margreta_de_Grazia,EMBEDDING_WORD2VEC,3
+
+Deanne,https://en.wikipedia.org/wiki/Deanne,WORDNET,6
+
+Deanne,https://en.wikipedia.org/wiki/Deanne,NTH_LINK(1),12
+
+Deanne,https://en.wikipedia.org/wiki/Deanne,EMBEDDING_WORD2VEC,9
+
+Lula Greene Richards,https://en.wikipedia.org/wiki/Lula_Greene_Richards,WORDNET,8
+
+Lula Greene Richards,https://en.wikipedia.org/wiki/Lula_Greene_Richards,NTH_LINK(1),20
+
+Lula Greene Richards,https://en.wikipedia.org/wiki/Lula_Greene_Richards,EMBEDDING_WORD2VEC,7
+
+Candy Corn (film),https://en.wikipedia.org/wiki/Candy_Corn_(film),WORDNET,10
+
+Candy Corn (film),https://en.wikipedia.org/wiki/Candy_Corn_(film),NTH_LINK(1),9
+
+Candy Corn (film),https://en.wikipedia.org/wiki/Candy_Corn_(film),EMBEDDING_WORD2VEC,9
+
+List of Billboard Adult Contemporary number ones of 1981,https://en.wikipedia.org/wiki/List_of_Billboard_Adult_Contemporary_number_ones_of_1981,WORDNET,6
+
+List of Billboard Adult Contemporary number ones of 1981,https://en.wikipedia.org/wiki/List_of_Billboard_Adult_Contemporary_number_ones_of_1981,NTH_LINK(1),11
+
+List of Billboard Adult Contemporary number ones of 1981,https://en.wikipedia.org/wiki/List_of_Billboard_Adult_Contemporary_number_ones_of_1981,EMBEDDING_WORD2VEC,9
+
+Khalaf al-Bazzar,https://en.wikipedia.org/wiki/Khalaf_al-Bazzar,WORDNET,4
+
+Khalaf al-Bazzar,https://en.wikipedia.org/wiki/Khalaf_al-Bazzar,NTH_LINK(1),18
+
+Khalaf al-Bazzar,https://en.wikipedia.org/wiki/Khalaf_al-Bazzar,EMBEDDING_WORD2VEC,7
+
+Nawab Mayana Nizam Vali,https://en.wikipedia.org/wiki/Nawab_Mayana_Nizam_Vali,WORDNET,8
+
+Nawab Mayana Nizam Vali,https://en.wikipedia.org/wiki/Nawab_Mayana_Nizam_Vali,NTH_LINK(1),21
+
+Nawab Mayana Nizam Vali,https://en.wikipedia.org/wiki/Nawab_Mayana_Nizam_Vali,EMBEDDING_WORD2VEC,8
+
+Hayim Hillel Ben-Sasson,https://en.wikipedia.org/wiki/Hayim_Hillel_Ben-Sasson,WORDNET,7
+
+Hayim Hillel Ben-Sasson,https://en.wikipedia.org/wiki/Hayim_Hillel_Ben-Sasson,NTH_LINK(1),12
+
+Hayim Hillel Ben-Sasson,https://en.wikipedia.org/wiki/Hayim_Hillel_Ben-Sasson,EMBEDDING_WORD2VEC,7
+
+Nara Prefectural Assembly,https://en.wikipedia.org/wiki/Nara_Prefectural_Assembly,WORDNET,9
+
+Nara Prefectural Assembly,https://en.wikipedia.org/wiki/Nara_Prefectural_Assembly,NTH_LINK(1),24
+
+Nara Prefectural Assembly,https://en.wikipedia.org/wiki/Nara_Prefectural_Assembly,EMBEDDING_WORD2VEC,4
+
+Malcolm H. Kerr,https://en.wikipedia.org/wiki/Malcolm_H._Kerr,WORDNET,2
+
+Malcolm H. Kerr,https://en.wikipedia.org/wiki/Malcolm_H._Kerr,NTH_LINK(1),20
+
+Malcolm H. Kerr,https://en.wikipedia.org/wiki/Malcolm_H._Kerr,EMBEDDING_WORD2VEC,2
+
+Trevor Lock,https://en.wikipedia.org/wiki/Trevor_Lock,WORDNET,7
+
+Trevor Lock,https://en.wikipedia.org/wiki/Trevor_Lock,NTH_LINK(1),18
+
+Trevor Lock,https://en.wikipedia.org/wiki/Trevor_Lock,EMBEDDING_WORD2VEC,9
+
+Sergei Stadler,https://en.wikipedia.org/wiki/Sergei_Stadler,WORDNET,5
+
+Sergei Stadler,https://en.wikipedia.org/wiki/Sergei_Stadler,NTH_LINK(1),6
+
+Sergei Stadler,https://en.wikipedia.org/wiki/Sergei_Stadler,EMBEDDING_WORD2VEC,7
+
+Agahar,https://en.wikipedia.org/wiki/Agahar,WORDNET,8
+
+Agahar,https://en.wikipedia.org/wiki/Agahar,NTH_LINK(1),18
+
+Agahar,https://en.wikipedia.org/wiki/Agahar,EMBEDDING_WORD2VEC,6
+
+Amy Dommel-Dieny,https://en.wikipedia.org/wiki/Amy_Dommel-Dieny,WORDNET,5
+
+Amy Dommel-Dieny,https://en.wikipedia.org/wiki/Amy_Dommel-Dieny,NTH_LINK(1),16
+
+Amy Dommel-Dieny,https://en.wikipedia.org/wiki/Amy_Dommel-Dieny,EMBEDDING_WORD2VEC,8
+
+Lihie Raz,https://en.wikipedia.org/wiki/Lihie_Raz,WORDNET,13
+
+Lihie Raz,https://en.wikipedia.org/wiki/Lihie_Raz,NTH_LINK(1),19
+
+Lihie Raz,https://en.wikipedia.org/wiki/Lihie_Raz,EMBEDDING_WORD2VEC,11
+
+Fred R. Shapiro,https://en.wikipedia.org/wiki/Fred_R._Shapiro,WORDNET,8
+
+Fred R. Shapiro,https://en.wikipedia.org/wiki/Fred_R._Shapiro,NTH_LINK(1),15
+
+Fred R. Shapiro,https://en.wikipedia.org/wiki/Fred_R._Shapiro,EMBEDDING_WORD2VEC,4
+
+"George Adams (scientist, died 1795)","https://en.wikipedia.org/wiki/George_Adams_(scientist,_died_1795)",WORDNET,10
+
+"George Adams (scientist, died 1795)","https://en.wikipedia.org/wiki/George_Adams_(scientist,_died_1795)",NTH_LINK(1),20
+
+"George Adams (scientist, died 1795)","https://en.wikipedia.org/wiki/George_Adams_(scientist,_died_1795)",EMBEDDING_WORD2VEC,5
+
+Alauddin Muhammad Da'ud Syah II,https://en.wikipedia.org/wiki/Alauddin_Muhammad_Da%27ud_Syah_II,WORDNET,7
+
+Alauddin Muhammad Da'ud Syah II,https://en.wikipedia.org/wiki/Alauddin_Muhammad_Da%27ud_Syah_II,NTH_LINK(1),18
+
+Alauddin Muhammad Da'ud Syah II,https://en.wikipedia.org/wiki/Alauddin_Muhammad_Da%27ud_Syah_II,EMBEDDING_WORD2VEC,9
+
+Clerk,https://en.wikipedia.org/wiki/Clerk,WORDNET,5
+
+Clerk,https://en.wikipedia.org/wiki/Clerk,NTH_LINK(1),17
+
+Clerk,https://en.wikipedia.org/wiki/Clerk,EMBEDDING_WORD2VEC,3
+
+Cognitive work analysis,https://en.wikipedia.org/wiki/Cognitive_work_analysis,WORDNET,4
+
+Cognitive work analysis,https://en.wikipedia.org/wiki/Cognitive_work_analysis,NTH_LINK(1),14
+
+Cognitive work analysis,https://en.wikipedia.org/wiki/Cognitive_work_analysis,EMBEDDING_WORD2VEC,2
+
+Collits' Inn,https://en.wikipedia.org/wiki/Collits%27_Inn,WORDNET,13
+
+Collits' Inn,https://en.wikipedia.org/wiki/Collits%27_Inn,NTH_LINK(1),21
+
+Collits' Inn,https://en.wikipedia.org/wiki/Collits%27_Inn,EMBEDDING_WORD2VEC,8
+
+The Prophecy (Applegate novel),https://en.wikipedia.org/wiki/The_Prophecy_(Applegate_novel),WORDNET,12
+
+The Prophecy (Applegate novel),https://en.wikipedia.org/wiki/The_Prophecy_(Applegate_novel),NTH_LINK(1),12
+
+The Prophecy (Applegate novel),https://en.wikipedia.org/wiki/The_Prophecy_(Applegate_novel),EMBEDDING_WORD2VEC,4
+
+Sottorealism,https://en.wikipedia.org/wiki/Sottorealism,WORDNET,8
+
+Sottorealism,https://en.wikipedia.org/wiki/Sottorealism,NTH_LINK(1),30
+
+Sottorealism,https://en.wikipedia.org/wiki/Sottorealism,EMBEDDING_WORD2VEC,6
+
+Socialist Youth of Northern Rhodesia,https://en.wikipedia.org/wiki/Socialist_Youth_of_Northern_Rhodesia,WORDNET,10
+
+Socialist Youth of Northern Rhodesia,https://en.wikipedia.org/wiki/Socialist_Youth_of_Northern_Rhodesia,NTH_LINK(1),17
+
+Socialist Youth of Northern Rhodesia,https://en.wikipedia.org/wiki/Socialist_Youth_of_Northern_Rhodesia,EMBEDDING_WORD2VEC,8
+
+The Madison Times,https://en.wikipedia.org/wiki/The_Madison_Times,WORDNET,7
+
+The Madison Times,https://en.wikipedia.org/wiki/The_Madison_Times,NTH_LINK(1),9
+
+The Madison Times,https://en.wikipedia.org/wiki/The_Madison_Times,EMBEDDING_WORD2VEC,6
+
+Tibro Municipality,https://en.wikipedia.org/wiki/Tibro_Municipality,WORDNET,7
+
+Tibro Municipality,https://en.wikipedia.org/wiki/Tibro_Municipality,NTH_LINK(1),27
+
+Tibro Municipality,https://en.wikipedia.org/wiki/Tibro_Municipality,EMBEDDING_WORD2VEC,8
+
+Ruff 'n' Ready (Ready for the World album),https://en.wikipedia.org/wiki/Ruff_%27n%27_Ready_(Ready_for_the_World_album),WORDNET,10
+
+Ruff 'n' Ready (Ready for the World album),https://en.wikipedia.org/wiki/Ruff_%27n%27_Ready_(Ready_for_the_World_album),NTH_LINK(1),18
+
+Ruff 'n' Ready (Ready for the World album),https://en.wikipedia.org/wiki/Ruff_%27n%27_Ready_(Ready_for_the_World_album),EMBEDDING_WORD2VEC,7
+
+Esther Anil,https://en.wikipedia.org/wiki/Esther_Anil,WORDNET,6
+
+Esther Anil,https://en.wikipedia.org/wiki/Esther_Anil,NTH_LINK(1),18
+
+Esther Anil,https://en.wikipedia.org/wiki/Esther_Anil,EMBEDDING_WORD2VEC,8
+
+Mansfield Center Historic District,https://en.wikipedia.org/wiki/Mansfield_Center_Historic_District,WORDNET,9
+
+Mansfield Center Historic District,https://en.wikipedia.org/wiki/Mansfield_Center_Historic_District,NTH_LINK(1),21
+
+Mansfield Center Historic District,https://en.wikipedia.org/wiki/Mansfield_Center_Historic_District,EMBEDDING_WORD2VEC,8
+
+Alphaville Suite,https://en.wikipedia.org/wiki/Alphaville_Suite,WORDNET,5
+
+Alphaville Suite,https://en.wikipedia.org/wiki/Alphaville_Suite,NTH_LINK(1),27
+
+Alphaville Suite,https://en.wikipedia.org/wiki/Alphaville_Suite,EMBEDDING_WORD2VEC,7
+
+Ronald Rodgers,https://en.wikipedia.org/wiki/Ronald_Rodgers,WORDNET,6
+
+Ronald Rodgers,https://en.wikipedia.org/wiki/Ronald_Rodgers,NTH_LINK(1),20
+
+Ronald Rodgers,https://en.wikipedia.org/wiki/Ronald_Rodgers,EMBEDDING_WORD2VEC,9
+
+Narrung Peninsula,https://en.wikipedia.org/wiki/Narrung_Peninsula,WORDNET,8
+
+Narrung Peninsula,https://en.wikipedia.org/wiki/Narrung_Peninsula,NTH_LINK(1),23
+
+Narrung Peninsula,https://en.wikipedia.org/wiki/Narrung_Peninsula,EMBEDDING_WORD2VEC,9
+
+Rhodes Scholarship,https://en.wikipedia.org/wiki/Rhodes_Scholarship,WORDNET,6
+
+Rhodes Scholarship,https://en.wikipedia.org/wiki/Rhodes_Scholarship,NTH_LINK(1),37
+
+Rhodes Scholarship,https://en.wikipedia.org/wiki/Rhodes_Scholarship,EMBEDDING_WORD2VEC,8
+
+E-learning (theory),https://en.wikipedia.org/wiki/E-learning_(theory),WORDNET,2
+
+E-learning (theory),https://en.wikipedia.org/wiki/E-learning_(theory),NTH_LINK(1),35
+
+E-learning (theory),https://en.wikipedia.org/wiki/E-learning_(theory),EMBEDDING_WORD2VEC,2
+
+Terah,https://en.wikipedia.org/wiki/Terah,WORDNET,6
+
+Terah,https://en.wikipedia.org/wiki/Terah,NTH_LINK(1),21
+
+Terah,https://en.wikipedia.org/wiki/Terah,EMBEDDING_WORD2VEC,9
+
+Code for Sustainable Homes,https://en.wikipedia.org/wiki/Code_for_Sustainable_Homes,WORDNET,4
+
+Code for Sustainable Homes,https://en.wikipedia.org/wiki/Code_for_Sustainable_Homes,NTH_LINK(1),21
+
+Code for Sustainable Homes,https://en.wikipedia.org/wiki/Code_for_Sustainable_Homes,EMBEDDING_WORD2VEC,4
+
+Hypoactive sexual desire disorder,https://en.wikipedia.org/wiki/Hypoactive_sexual_desire_disorder,WORDNET,3
+
+Hypoactive sexual desire disorder,https://en.wikipedia.org/wiki/Hypoactive_sexual_desire_disorder,NTH_LINK(1),16
+
+Hypoactive sexual desire disorder,https://en.wikipedia.org/wiki/Hypoactive_sexual_desire_disorder,EMBEDDING_WORD2VEC,9
+
+Uni�o Nogueirense F.C.,https://en.wikipedia.org/wiki/Uni%C3%A3o_Nogueirense_F.C.,WORDNET,9
+
+Uni�o Nogueirense F.C.,https://en.wikipedia.org/wiki/Uni%C3%A3o_Nogueirense_F.C.,NTH_LINK(1),21
+
+Uni�o Nogueirense F.C.,https://en.wikipedia.org/wiki/Uni%C3%A3o_Nogueirense_F.C.,EMBEDDING_WORD2VEC,8
+
+Jojo Khalastra,https://en.wikipedia.org/wiki/Jojo_Khalastra,WORDNET,7
+
+Jojo Khalastra,https://en.wikipedia.org/wiki/Jojo_Khalastra,NTH_LINK(1),8
+
+Jojo Khalastra,https://en.wikipedia.org/wiki/Jojo_Khalastra,EMBEDDING_WORD2VEC,7
+
+Peter Monteath,https://en.wikipedia.org/wiki/Peter_Monteath,WORDNET,15
+
+Peter Monteath,https://en.wikipedia.org/wiki/Peter_Monteath,NTH_LINK(1),37
+
+Peter Monteath,https://en.wikipedia.org/wiki/Peter_Monteath,EMBEDDING_WORD2VEC,8
+
+Little Walter discography,https://en.wikipedia.org/wiki/Little_Walter_discography,WORDNET,13
+
+Little Walter discography,https://en.wikipedia.org/wiki/Little_Walter_discography,NTH_LINK(1),25
+
+Little Walter discography,https://en.wikipedia.org/wiki/Little_Walter_discography,EMBEDDING_WORD2VEC,6
+
+Mohammed Faleh Al-Ajmi,https://en.wikipedia.org/wiki/Mohammed_Faleh_Al-Ajmi,WORDNET,9
+
+Mohammed Faleh Al-Ajmi,https://en.wikipedia.org/wiki/Mohammed_Faleh_Al-Ajmi,NTH_LINK(1),21
+
+Mohammed Faleh Al-Ajmi,https://en.wikipedia.org/wiki/Mohammed_Faleh_Al-Ajmi,EMBEDDING_WORD2VEC,7
+
+Woh Aik Pal,https://en.wikipedia.org/wiki/Woh_Aik_Pal,WORDNET,8
+
+Woh Aik Pal,https://en.wikipedia.org/wiki/Woh_Aik_Pal,NTH_LINK(1),13
+
+Woh Aik Pal,https://en.wikipedia.org/wiki/Woh_Aik_Pal,EMBEDDING_WORD2VEC,10
+
+Webflow,https://en.wikipedia.org/wiki/Webflow,WORDNET,11
+
+Webflow,https://en.wikipedia.org/wiki/Webflow,NTH_LINK(1),21
+
+Webflow,https://en.wikipedia.org/wiki/Webflow,EMBEDDING_WORD2VEC,8
+
+A. Oakey Hall,https://en.wikipedia.org/wiki/A._Oakey_Hall,WORDNET,8
+
+A. Oakey Hall,https://en.wikipedia.org/wiki/A._Oakey_Hall,NTH_LINK(1),29
+
+A. Oakey Hall,https://en.wikipedia.org/wiki/A._Oakey_Hall,EMBEDDING_WORD2VEC,8
+
+Hugh Barr Nisbet,https://en.wikipedia.org/wiki/Hugh_Barr_Nisbet,WORDNET,2
+
+Hugh Barr Nisbet,https://en.wikipedia.org/wiki/Hugh_Barr_Nisbet,NTH_LINK(1),37
+
+Hugh Barr Nisbet,https://en.wikipedia.org/wiki/Hugh_Barr_Nisbet,EMBEDDING_WORD2VEC,2
+
+Vermin (disambiguation),https://en.wikipedia.org/wiki/Vermin_(disambiguation),WORDNET,8
+
+Vermin (disambiguation),https://en.wikipedia.org/wiki/Vermin_(disambiguation),NTH_LINK(1),20
+
+Vermin (disambiguation),https://en.wikipedia.org/wiki/Vermin_(disambiguation),EMBEDDING_WORD2VEC,4
+
+Aage Teigen,https://en.wikipedia.org/wiki/Aage_Teigen,WORDNET,5
+
+Aage Teigen,https://en.wikipedia.org/wiki/Aage_Teigen,NTH_LINK(1),37
+
+Aage Teigen,https://en.wikipedia.org/wiki/Aage_Teigen,EMBEDDING_WORD2VEC,8
+
+Walter Joseph Sendall,https://en.wikipedia.org/wiki/Walter_Joseph_Sendall,WORDNET,3
+
+Walter Joseph Sendall,https://en.wikipedia.org/wiki/Walter_Joseph_Sendall,NTH_LINK(1),15
+
+Walter Joseph Sendall,https://en.wikipedia.org/wiki/Walter_Joseph_Sendall,EMBEDDING_WORD2VEC,3
+
+Silver machine,https://en.wikipedia.org/wiki/Silver_machine,WORDNET,2
+
+Silver machine,https://en.wikipedia.org/wiki/Silver_machine,NTH_LINK(1),9
+
+Silver machine,https://en.wikipedia.org/wiki/Silver_machine,EMBEDDING_WORD2VEC,2
+
+Appletree Cove,https://en.wikipedia.org/wiki/Appletree_Cove,WORDNET,5
+
+Appletree Cove,https://en.wikipedia.org/wiki/Appletree_Cove,NTH_LINK(1),14
+
+Appletree Cove,https://en.wikipedia.org/wiki/Appletree_Cove,EMBEDDING_WORD2VEC,6
+
+Without You All Is Darkness,https://en.wikipedia.org/wiki/Without_You_All_Is_Darkness,WORDNET,5
+
+Without You All Is Darkness,https://en.wikipedia.org/wiki/Without_You_All_Is_Darkness,NTH_LINK(1),19
+
+Without You All Is Darkness,https://en.wikipedia.org/wiki/Without_You_All_Is_Darkness,EMBEDDING_WORD2VEC,10
+
+Henry Martindale (priest),https://en.wikipedia.org/wiki/Henry_Martindale_(priest),WORDNET,7
+
+Henry Martindale (priest),https://en.wikipedia.org/wiki/Henry_Martindale_(priest),NTH_LINK(1),21
+
+Henry Martindale (priest),https://en.wikipedia.org/wiki/Henry_Martindale_(priest),EMBEDDING_WORD2VEC,6
+
+Wudang Road Subdistrict,https://en.wikipedia.org/wiki/Wudang_Road_Subdistrict,WORDNET,12
+
+Wudang Road Subdistrict,https://en.wikipedia.org/wiki/Wudang_Road_Subdistrict,NTH_LINK(1),23
+
+Wudang Road Subdistrict,https://en.wikipedia.org/wiki/Wudang_Road_Subdistrict,EMBEDDING_WORD2VEC,4
+
+Carl Robert Jakobson,https://en.wikipedia.org/wiki/Carl_Robert_Jakobson,WORDNET,9
+
+Carl Robert Jakobson,https://en.wikipedia.org/wiki/Carl_Robert_Jakobson,NTH_LINK(1),17
+
+Carl Robert Jakobson,https://en.wikipedia.org/wiki/Carl_Robert_Jakobson,EMBEDDING_WORD2VEC,7
+
+Emil Hertzka,https://en.wikipedia.org/wiki/Emil_Hertzka,WORDNET,5
+
+Emil Hertzka,https://en.wikipedia.org/wiki/Emil_Hertzka,NTH_LINK(1),20
+
+Emil Hertzka,https://en.wikipedia.org/wiki/Emil_Hertzka,EMBEDDING_WORD2VEC,3
+
+Tal Sondak,https://en.wikipedia.org/wiki/Tal_Sondak,WORDNET,9
+
+Tal Sondak,https://en.wikipedia.org/wiki/Tal_Sondak,NTH_LINK(1),19
+
+Tal Sondak,https://en.wikipedia.org/wiki/Tal_Sondak,EMBEDDING_WORD2VEC,7
+
+Margaret Manion,https://en.wikipedia.org/wiki/Margaret_Manion,WORDNET,15
+
+Margaret Manion,https://en.wikipedia.org/wiki/Margaret_Manion,NTH_LINK(1),14
+
+Margaret Manion,https://en.wikipedia.org/wiki/Margaret_Manion,EMBEDDING_WORD2VEC,8
+
+"Royal Holloway, University of London","https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London",WORDNET,14
+
+"Royal Holloway, University of London","https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London",NTH_LINK(1),36
+
+"Royal Holloway, University of London","https://en.wikipedia.org/wiki/Royal_Holloway,_University_of_London",EMBEDDING_WORD2VEC,7
+
+Secrets (Australian TV series),https://en.wikipedia.org/wiki/Secrets_(Australian_TV_series),WORDNET,14
+
+Secrets (Australian TV series),https://en.wikipedia.org/wiki/Secrets_(Australian_TV_series),NTH_LINK(1),23
+
+Secrets (Australian TV series),https://en.wikipedia.org/wiki/Secrets_(Australian_TV_series),EMBEDDING_WORD2VEC,12
+
+Josep Rovira Soler,https://en.wikipedia.org/wiki/Josep_Rovira_Soler,WORDNET,4
+
+Josep Rovira Soler,https://en.wikipedia.org/wiki/Josep_Rovira_Soler,NTH_LINK(1),10
+
+Josep Rovira Soler,https://en.wikipedia.org/wiki/Josep_Rovira_Soler,EMBEDDING_WORD2VEC,5
+
+Morning Undersea,https://en.wikipedia.org/wiki/Morning_Undersea,WORDNET,10
+
+Morning Undersea,https://en.wikipedia.org/wiki/Morning_Undersea,NTH_LINK(1),19
+
+Morning Undersea,https://en.wikipedia.org/wiki/Morning_Undersea,EMBEDDING_WORD2VEC,7
+
+2011 Western Michigan Broncos football team,https://en.wikipedia.org/wiki/2011_Western_Michigan_Broncos_football_team,WORDNET,15
+
+2011 Western Michigan Broncos football team,https://en.wikipedia.org/wiki/2011_Western_Michigan_Broncos_football_team,NTH_LINK(1),37
+
+2011 Western Michigan Broncos football team,https://en.wikipedia.org/wiki/2011_Western_Michigan_Broncos_football_team,EMBEDDING_WORD2VEC,8
+
+Meanings of minor planet names: 356001�357000,https://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_356001%E2%80%93357000,WORDNET,4
+
+Meanings of minor planet names: 356001�357000,https://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_356001%E2%80%93357000,NTH_LINK(1),19
+
+Meanings of minor planet names: 356001�357000,https://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_356001%E2%80%93357000,EMBEDDING_WORD2VEC,5
+
+Outline of Jewish history,https://en.wikipedia.org/wiki/Outline_of_Jewish_history,WORDNET,14
+
+Outline of Jewish history,https://en.wikipedia.org/wiki/Outline_of_Jewish_history,NTH_LINK(1),19
+
+Outline of Jewish history,https://en.wikipedia.org/wiki/Outline_of_Jewish_history,EMBEDDING_WORD2VEC,12
+
+Giuseppe Vicino,https://en.wikipedia.org/wiki/Giuseppe_Vicino,WORDNET,12
+
+Giuseppe Vicino,https://en.wikipedia.org/wiki/Giuseppe_Vicino,NTH_LINK(1),19
+
+Giuseppe Vicino,https://en.wikipedia.org/wiki/Giuseppe_Vicino,EMBEDDING_WORD2VEC,17
+
+Odesa International Medical University,https://en.wikipedia.org/wiki/Odesa_International_Medical_University,WORDNET,3
+
+Odesa International Medical University,https://en.wikipedia.org/wiki/Odesa_International_Medical_University,NTH_LINK(1),26
+
+Odesa International Medical University,https://en.wikipedia.org/wiki/Odesa_International_Medical_University,EMBEDDING_WORD2VEC,8
+
+Eleanor of Prussia,https://en.wikipedia.org/wiki/Eleanor_of_Prussia,WORDNET,6
+
+Eleanor of Prussia,https://en.wikipedia.org/wiki/Eleanor_of_Prussia,NTH_LINK(1),23
+
+Eleanor of Prussia,https://en.wikipedia.org/wiki/Eleanor_of_Prussia,EMBEDDING_WORD2VEC,8
+
+Shade (Kiyotaka Sugiyama song),https://en.wikipedia.org/wiki/Shade_(Kiyotaka_Sugiyama_song),WORDNET,10
+
+Shade (Kiyotaka Sugiyama song),https://en.wikipedia.org/wiki/Shade_(Kiyotaka_Sugiyama_song),NTH_LINK(1),26
+
+Shade (Kiyotaka Sugiyama song),https://en.wikipedia.org/wiki/Shade_(Kiyotaka_Sugiyama_song),EMBEDDING_WORD2VEC,10
+
+Pedoulas,https://en.wikipedia.org/wiki/Pedoulas,WORDNET,3
+
+Pedoulas,https://en.wikipedia.org/wiki/Pedoulas,NTH_LINK(1),25
+
+Pedoulas,https://en.wikipedia.org/wiki/Pedoulas,EMBEDDING_WORD2VEC,3
+
+Dreamweapon: An Evening of Contemporary Sitar Music,https://en.wikipedia.org/wiki/Dreamweapon:_An_Evening_of_Contemporary_Sitar_Music,WORDNET,9
+
+Dreamweapon: An Evening of Contemporary Sitar Music,https://en.wikipedia.org/wiki/Dreamweapon:_An_Evening_of_Contemporary_Sitar_Music,NTH_LINK(1),19
+
+Dreamweapon: An Evening of Contemporary Sitar Music,https://en.wikipedia.org/wiki/Dreamweapon:_An_Evening_of_Contemporary_Sitar_Music,EMBEDDING_WORD2VEC,7
+
+Yeshu,https://en.wikipedia.org/wiki/Yeshu,WORDNET,11
+
+Yeshu,https://en.wikipedia.org/wiki/Yeshu,NTH_LINK(1),20
+
+Yeshu,https://en.wikipedia.org/wiki/Yeshu,EMBEDDING_WORD2VEC,10
+
+Devol (Albania),https://en.wikipedia.org/wiki/Devol_(Albania),WORDNET,11
+
+Devol (Albania),https://en.wikipedia.org/wiki/Devol_(Albania),NTH_LINK(1),13
+
+Devol (Albania),https://en.wikipedia.org/wiki/Devol_(Albania),EMBEDDING_WORD2VEC,12
+
+Castles and Dreams,https://en.wikipedia.org/wiki/Castles_and_Dreams,WORDNET,13
+
+Castles and Dreams,https://en.wikipedia.org/wiki/Castles_and_Dreams,NTH_LINK(1),9
+
+Castles and Dreams,https://en.wikipedia.org/wiki/Castles_and_Dreams,EMBEDDING_WORD2VEC,8
+
+Guimba,https://en.wikipedia.org/wiki/Guimba,WORDNET,7
+
+Guimba,https://en.wikipedia.org/wiki/Guimba,NTH_LINK(1),27
+
+Guimba,https://en.wikipedia.org/wiki/Guimba,EMBEDDING_WORD2VEC,13
+
+Beckman Young Investigators Award,https://en.wikipedia.org/wiki/Beckman_Young_Investigators_Award,WORDNET,9
+
+Beckman Young Investigators Award,https://en.wikipedia.org/wiki/Beckman_Young_Investigators_Award,NTH_LINK(1),38
+
+Beckman Young Investigators Award,https://en.wikipedia.org/wiki/Beckman_Young_Investigators_Award,EMBEDDING_WORD2VEC,9
+
+Janet Paul,https://en.wikipedia.org/wiki/Janet_Paul,WORDNET,8
+
+Janet Paul,https://en.wikipedia.org/wiki/Janet_Paul,NTH_LINK(1),15
+
+Janet Paul,https://en.wikipedia.org/wiki/Janet_Paul,EMBEDDING_WORD2VEC,6
+
+Mark Little (baseball),https://en.wikipedia.org/wiki/Mark_Little_(baseball),WORDNET,10
+
+Mark Little (baseball),https://en.wikipedia.org/wiki/Mark_Little_(baseball),NTH_LINK(1),21
+
+Mark Little (baseball),https://en.wikipedia.org/wiki/Mark_Little_(baseball),EMBEDDING_WORD2VEC,8
+
+"List of members of the Folketing, 2015�2019","https://en.wikipedia.org/wiki/List_of_members_of_the_Folketing,_2015%E2%80%932019",WORDNET,8
+
+"List of members of the Folketing, 2015�2019","https://en.wikipedia.org/wiki/List_of_members_of_the_Folketing,_2015%E2%80%932019",NTH_LINK(1),18
+
+"List of members of the Folketing, 2015�2019","https://en.wikipedia.org/wiki/List_of_members_of_the_Folketing,_2015%E2%80%932019",EMBEDDING_WORD2VEC,9
+
+Nathan Burrage,https://en.wikipedia.org/wiki/Nathan_Burrage,WORDNET,15
+
+Nathan Burrage,https://en.wikipedia.org/wiki/Nathan_Burrage,NTH_LINK(1),37
+
+Nathan Burrage,https://en.wikipedia.org/wiki/Nathan_Burrage,EMBEDDING_WORD2VEC,8
+
+Devayani Farande,https://en.wikipedia.org/wiki/Devayani_Farande,WORDNET,8
+
+Devayani Farande,https://en.wikipedia.org/wiki/Devayani_Farande,NTH_LINK(1),17
+
+Devayani Farande,https://en.wikipedia.org/wiki/Devayani_Farande,EMBEDDING_WORD2VEC,10
+
+Eleonoro Pacello,https://en.wikipedia.org/wiki/Eleonoro_Pacello,WORDNET,6
+
+Eleonoro Pacello,https://en.wikipedia.org/wiki/Eleonoro_Pacello,NTH_LINK(1),21
+
+Eleonoro Pacello,https://en.wikipedia.org/wiki/Eleonoro_Pacello,EMBEDDING_WORD2VEC,10
+
+Guy-America Airways,https://en.wikipedia.org/wiki/Guy-America_Airways,WORDNET,7
+
+Guy-America Airways,https://en.wikipedia.org/wiki/Guy-America_Airways,NTH_LINK(1),20
+
+Guy-America Airways,https://en.wikipedia.org/wiki/Guy-America_Airways,EMBEDDING_WORD2VEC,8
+
+Robert D. Durham,https://en.wikipedia.org/wiki/Robert_D._Durham,WORDNET,5
+
+Robert D. Durham,https://en.wikipedia.org/wiki/Robert_D._Durham,NTH_LINK(1),19
+
+Robert D. Durham,https://en.wikipedia.org/wiki/Robert_D._Durham,EMBEDDING_WORD2VEC,8
+
+Alumni Stadium (BJU),https://en.wikipedia.org/wiki/Alumni_Stadium_(BJU),WORDNET,8
+
+Alumni Stadium (BJU),https://en.wikipedia.org/wiki/Alumni_Stadium_(BJU),NTH_LINK(1),37
+
+Alumni Stadium (BJU),https://en.wikipedia.org/wiki/Alumni_Stadium_(BJU),EMBEDDING_WORD2VEC,5
+
+2005 Harvard Crimson football team,https://en.wikipedia.org/wiki/2005_Harvard_Crimson_football_team,WORDNET,4
+
+2005 Harvard Crimson football team,https://en.wikipedia.org/wiki/2005_Harvard_Crimson_football_team,NTH_LINK(1),37
+
+2005 Harvard Crimson football team,https://en.wikipedia.org/wiki/2005_Harvard_Crimson_football_team,EMBEDDING_WORD2VEC,8
+
+The Descent from the Cross (Rubens),https://en.wikipedia.org/wiki/The_Descent_from_the_Cross_(Rubens),WORDNET,6
+
+The Descent from the Cross (Rubens),https://en.wikipedia.org/wiki/The_Descent_from_the_Cross_(Rubens),NTH_LINK(1),28
+
+The Descent from the Cross (Rubens),https://en.wikipedia.org/wiki/The_Descent_from_the_Cross_(Rubens),EMBEDDING_WORD2VEC,4
+
+That Means a Lot,https://en.wikipedia.org/wiki/That_Means_a_Lot,WORDNET,5
+
+That Means a Lot,https://en.wikipedia.org/wiki/That_Means_a_Lot,NTH_LINK(1),15
+
+That Means a Lot,https://en.wikipedia.org/wiki/That_Means_a_Lot,EMBEDDING_WORD2VEC,16
+
+"County Route 9 (Orange County, New York)","https://en.wikipedia.org/wiki/County_Route_9_(Orange_County,_New_York)",WORDNET,9
+
+"County Route 9 (Orange County, New York)","https://en.wikipedia.org/wiki/County_Route_9_(Orange_County,_New_York)",NTH_LINK(1),20
+
+"County Route 9 (Orange County, New York)","https://en.wikipedia.org/wiki/County_Route_9_(Orange_County,_New_York)",EMBEDDING_WORD2VEC,8
+
+Punahana Assembly constituency,https://en.wikipedia.org/wiki/Punahana_Assembly_constituency,WORDNET,9
+
+Punahana Assembly constituency,https://en.wikipedia.org/wiki/Punahana_Assembly_constituency,NTH_LINK(1),21
+
+Punahana Assembly constituency,https://en.wikipedia.org/wiki/Punahana_Assembly_constituency,EMBEDDING_WORD2VEC,8
+
+P. Seethapathy,https://en.wikipedia.org/wiki/P._Seethapathy,WORDNET,9
+
+P. Seethapathy,https://en.wikipedia.org/wiki/P._Seethapathy,NTH_LINK(1),17
+
+P. Seethapathy,https://en.wikipedia.org/wiki/P._Seethapathy,EMBEDDING_WORD2VEC,7
+
+Battalion for the Defence of the Language,https://en.wikipedia.org/wiki/Battalion_for_the_Defence_of_the_Language,WORDNET,7
+
+Battalion for the Defence of the Language,https://en.wikipedia.org/wiki/Battalion_for_the_Defence_of_the_Language,NTH_LINK(1),19
+
+Battalion for the Defence of the Language,https://en.wikipedia.org/wiki/Battalion_for_the_Defence_of_the_Language,EMBEDDING_WORD2VEC,7
+
+Cincinnati Hills Christian Academy,https://en.wikipedia.org/wiki/Cincinnati_Hills_Christian_Academy,WORDNET,6
+
+Cincinnati Hills Christian Academy,https://en.wikipedia.org/wiki/Cincinnati_Hills_Christian_Academy,NTH_LINK(1),22
+
+Cincinnati Hills Christian Academy,https://en.wikipedia.org/wiki/Cincinnati_Hills_Christian_Academy,EMBEDDING_WORD2VEC,9
+
+Leonard Jacobson (author),https://en.wikipedia.org/wiki/Leonard_Jacobson_(author),WORDNET,11
+
+Leonard Jacobson (author),https://en.wikipedia.org/wiki/Leonard_Jacobson_(author),NTH_LINK(1),20
+
+Leonard Jacobson (author),https://en.wikipedia.org/wiki/Leonard_Jacobson_(author),EMBEDDING_WORD2VEC,7
+
+Gilles Mayer,https://en.wikipedia.org/wiki/Gilles_Mayer,WORDNET,7
+
+Gilles Mayer,https://en.wikipedia.org/wiki/Gilles_Mayer,NTH_LINK(1),22
+
+Gilles Mayer,https://en.wikipedia.org/wiki/Gilles_Mayer,EMBEDDING_WORD2VEC,8
+
+2015 Australian Open � Girls' singles,https://en.wikipedia.org/wiki/2015_Australian_Open_%E2%80%93_Girls%27_singles,WORDNET,12
+
+2015 Australian Open � Girls' singles,https://en.wikipedia.org/wiki/2015_Australian_Open_%E2%80%93_Girls%27_singles,NTH_LINK(1),24
+
+2015 Australian Open � Girls' singles,https://en.wikipedia.org/wiki/2015_Australian_Open_%E2%80%93_Girls%27_singles,EMBEDDING_WORD2VEC,10
+
+Ray Kogovsek,https://en.wikipedia.org/wiki/Ray_Kogovsek,WORDNET,8
+
+Ray Kogovsek,https://en.wikipedia.org/wiki/Ray_Kogovsek,NTH_LINK(1),23
+
+Ray Kogovsek,https://en.wikipedia.org/wiki/Ray_Kogovsek,EMBEDDING_WORD2VEC,8
+
+Devonshire and Dorset Regiment,https://en.wikipedia.org/wiki/Devonshire_and_Dorset_Regiment,WORDNET,12
+
+Devonshire and Dorset Regiment,https://en.wikipedia.org/wiki/Devonshire_and_Dorset_Regiment,NTH_LINK(1),18
+
+Devonshire and Dorset Regiment,https://en.wikipedia.org/wiki/Devonshire_and_Dorset_Regiment,EMBEDDING_WORD2VEC,7
+
+Lisa de la Motte,https://en.wikipedia.org/wiki/Lisa_de_la_Motte,WORDNET,9
+
+Lisa de la Motte,https://en.wikipedia.org/wiki/Lisa_de_la_Motte,NTH_LINK(1),23
+
+Lisa de la Motte,https://en.wikipedia.org/wiki/Lisa_de_la_Motte,EMBEDDING_WORD2VEC,3
+
+New York's 38th congressional district,https://en.wikipedia.org/wiki/New_York%27s_38th_congressional_district,WORDNET,11
+
+New York's 38th congressional district,https://en.wikipedia.org/wiki/New_York%27s_38th_congressional_district,NTH_LINK(1),18
+
+New York's 38th congressional district,https://en.wikipedia.org/wiki/New_York%27s_38th_congressional_district,EMBEDDING_WORD2VEC,7
+
+Tom�s Brito Lara,https://en.wikipedia.org/wiki/Tom%C3%A1s_Brito_Lara,WORDNET,8
+
+Tom�s Brito Lara,https://en.wikipedia.org/wiki/Tom%C3%A1s_Brito_Lara,NTH_LINK(1),24
+
+Tom�s Brito Lara,https://en.wikipedia.org/wiki/Tom%C3%A1s_Brito_Lara,EMBEDDING_WORD2VEC,6
+
+Phoebe Man,https://en.wikipedia.org/wiki/Phoebe_Man,WORDNET,6
+
+Phoebe Man,https://en.wikipedia.org/wiki/Phoebe_Man,NTH_LINK(1),24
+
+Phoebe Man,https://en.wikipedia.org/wiki/Phoebe_Man,EMBEDDING_WORD2VEC,8
+
+Alfred Flatow,https://en.wikipedia.org/wiki/Alfred_Flatow,WORDNET,13
+
+Alfred Flatow,https://en.wikipedia.org/wiki/Alfred_Flatow,NTH_LINK(1),18
+
+Alfred Flatow,https://en.wikipedia.org/wiki/Alfred_Flatow,EMBEDDING_WORD2VEC,11
+
+Roforofo Fight,https://en.wikipedia.org/wiki/Roforofo_Fight,WORDNET,10
+
+Roforofo Fight,https://en.wikipedia.org/wiki/Roforofo_Fight,NTH_LINK(1),24
+
+Roforofo Fight,https://en.wikipedia.org/wiki/Roforofo_Fight,EMBEDDING_WORD2VEC,13
+
+All for Australia League,https://en.wikipedia.org/wiki/All_for_Australia_League,WORDNET,10
+
+All for Australia League,https://en.wikipedia.org/wiki/All_for_Australia_League,NTH_LINK(1),18
+
+All for Australia League,https://en.wikipedia.org/wiki/All_for_Australia_League,EMBEDDING_WORD2VEC,8
+
+Fran�ois Lanno,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Lanno,WORDNET,5
+
+Fran�ois Lanno,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Lanno,NTH_LINK(1),19
+
+Fran�ois Lanno,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Lanno,EMBEDDING_WORD2VEC,7
+
+Monadology,https://en.wikipedia.org/wiki/Monadology,WORDNET,1
+
+Monadology,https://en.wikipedia.org/wiki/Monadology,NTH_LINK(1),11
+
+Monadology,https://en.wikipedia.org/wiki/Monadology,EMBEDDING_WORD2VEC,1
+
+Wafa Idris,https://en.wikipedia.org/wiki/Wafa_Idris,WORDNET,7
+
+Wafa Idris,https://en.wikipedia.org/wiki/Wafa_Idris,NTH_LINK(1),17
+
+Wafa Idris,https://en.wikipedia.org/wiki/Wafa_Idris,EMBEDDING_WORD2VEC,11
+
+Levon Pashalian,https://en.wikipedia.org/wiki/Levon_Pashalian,WORDNET,8
+
+Levon Pashalian,https://en.wikipedia.org/wiki/Levon_Pashalian,NTH_LINK(1),10
+
+Levon Pashalian,https://en.wikipedia.org/wiki/Levon_Pashalian,EMBEDDING_WORD2VEC,4
+
+Johann Conrad Barchusen,https://en.wikipedia.org/wiki/Johann_Conrad_Barchusen,WORDNET,15
+
+Johann Conrad Barchusen,https://en.wikipedia.org/wiki/Johann_Conrad_Barchusen,NTH_LINK(1),37
+
+Johann Conrad Barchusen,https://en.wikipedia.org/wiki/Johann_Conrad_Barchusen,EMBEDDING_WORD2VEC,8
+
+List of Penn Law School alumni,https://en.wikipedia.org/wiki/List_of_Penn_Law_School_alumni,WORDNET,8
+
+List of Penn Law School alumni,https://en.wikipedia.org/wiki/List_of_Penn_Law_School_alumni,NTH_LINK(1),21
+
+List of Penn Law School alumni,https://en.wikipedia.org/wiki/List_of_Penn_Law_School_alumni,EMBEDDING_WORD2VEC,8
+
+Michael J. Gelb,https://en.wikipedia.org/wiki/Michael_J._Gelb,WORDNET,5
+
+Michael J. Gelb,https://en.wikipedia.org/wiki/Michael_J._Gelb,NTH_LINK(1),37
+
+Michael J. Gelb,https://en.wikipedia.org/wiki/Michael_J._Gelb,EMBEDDING_WORD2VEC,3
+
+Cycle World,https://en.wikipedia.org/wiki/Cycle_World,WORDNET,14
+
+Cycle World,https://en.wikipedia.org/wiki/Cycle_World,NTH_LINK(1),20
+
+Cycle World,https://en.wikipedia.org/wiki/Cycle_World,EMBEDDING_WORD2VEC,6
+
+Jean Charpin,https://en.wikipedia.org/wiki/Jean_Charpin,WORDNET,7
+
+Jean Charpin,https://en.wikipedia.org/wiki/Jean_Charpin,NTH_LINK(1),21
+
+Jean Charpin,https://en.wikipedia.org/wiki/Jean_Charpin,EMBEDDING_WORD2VEC,7
+
+Steve Harrigan,https://en.wikipedia.org/wiki/Steve_Harrigan,WORDNET,2
+
+Steve Harrigan,https://en.wikipedia.org/wiki/Steve_Harrigan,NTH_LINK(1),9
+
+Steve Harrigan,https://en.wikipedia.org/wiki/Steve_Harrigan,EMBEDDING_WORD2VEC,2
+
+Daniel G. Rollins,https://en.wikipedia.org/wiki/Daniel_G._Rollins,WORDNET,8
+
+Daniel G. Rollins,https://en.wikipedia.org/wiki/Daniel_G._Rollins,NTH_LINK(1),19
+
+Daniel G. Rollins,https://en.wikipedia.org/wiki/Daniel_G._Rollins,EMBEDDING_WORD2VEC,8
+
+C. O. Anto,https://en.wikipedia.org/wiki/C._O._Anto,WORDNET,11
+
+C. O. Anto,https://en.wikipedia.org/wiki/C._O._Anto,NTH_LINK(1),18
+
+C. O. Anto,https://en.wikipedia.org/wiki/C._O._Anto,EMBEDDING_WORD2VEC,8
+
+Anja Kaspersen,https://en.wikipedia.org/wiki/Anja_Kaspersen,WORDNET,9
+
+Anja Kaspersen,https://en.wikipedia.org/wiki/Anja_Kaspersen,NTH_LINK(1),30
+
+Anja Kaspersen,https://en.wikipedia.org/wiki/Anja_Kaspersen,EMBEDDING_WORD2VEC,3
+
+Coin,https://en.wikipedia.org/wiki/Coin,WORDNET,5
+
+Coin,https://en.wikipedia.org/wiki/Coin,NTH_LINK(1),18
+
+Coin,https://en.wikipedia.org/wiki/Coin,EMBEDDING_WORD2VEC,6
+
+Christian Friedrich Schmid,https://en.wikipedia.org/wiki/Christian_Friedrich_Schmid,WORDNET,7
+
+Christian Friedrich Schmid,https://en.wikipedia.org/wiki/Christian_Friedrich_Schmid,NTH_LINK(1),21
+
+Christian Friedrich Schmid,https://en.wikipedia.org/wiki/Christian_Friedrich_Schmid,EMBEDDING_WORD2VEC,5
+
+Marjorie Lawrence,https://en.wikipedia.org/wiki/Marjorie_Lawrence,WORDNET,8
+
+Marjorie Lawrence,https://en.wikipedia.org/wiki/Marjorie_Lawrence,NTH_LINK(1),15
+
+Marjorie Lawrence,https://en.wikipedia.org/wiki/Marjorie_Lawrence,EMBEDDING_WORD2VEC,9
+
+Public Health Service Act,https://en.wikipedia.org/wiki/Public_Health_Service_Act,WORDNET,6
+
+Public Health Service Act,https://en.wikipedia.org/wiki/Public_Health_Service_Act,NTH_LINK(1),19
+
+Public Health Service Act,https://en.wikipedia.org/wiki/Public_Health_Service_Act,EMBEDDING_WORD2VEC,7
+
+Jimmy Stewart 2007,https://en.wikipedia.org/wiki/Jimmy_Stewart_2007,WORDNET,4
+
+Jimmy Stewart 2007,https://en.wikipedia.org/wiki/Jimmy_Stewart_2007,NTH_LINK(1),8
+
+Jimmy Stewart 2007,https://en.wikipedia.org/wiki/Jimmy_Stewart_2007,EMBEDDING_WORD2VEC,4
+
+Florida Senate Majority Office,https://en.wikipedia.org/wiki/Florida_Senate_Majority_Office,WORDNET,10
+
+Florida Senate Majority Office,https://en.wikipedia.org/wiki/Florida_Senate_Majority_Office,NTH_LINK(1),24
+
+Florida Senate Majority Office,https://en.wikipedia.org/wiki/Florida_Senate_Majority_Office,EMBEDDING_WORD2VEC,7
+
+Dutch Women's 2 Volleyball League,https://en.wikipedia.org/wiki/Dutch_Women%27s_2_Volleyball_League,WORDNET,11
+
+Dutch Women's 2 Volleyball League,https://en.wikipedia.org/wiki/Dutch_Women%27s_2_Volleyball_League,NTH_LINK(1),27
+
+Dutch Women's 2 Volleyball League,https://en.wikipedia.org/wiki/Dutch_Women%27s_2_Volleyball_League,EMBEDDING_WORD2VEC,3
+
+Stanislav Menshikov,https://en.wikipedia.org/wiki/Stanislav_Menshikov,WORDNET,6
+
+Stanislav Menshikov,https://en.wikipedia.org/wiki/Stanislav_Menshikov,NTH_LINK(1),13
+
+Stanislav Menshikov,https://en.wikipedia.org/wiki/Stanislav_Menshikov,EMBEDDING_WORD2VEC,3
+
+2002 Cambridge City Council election,https://en.wikipedia.org/wiki/2002_Cambridge_City_Council_election,WORDNET,8
+
+2002 Cambridge City Council election,https://en.wikipedia.org/wiki/2002_Cambridge_City_Council_election,NTH_LINK(1),24
+
+2002 Cambridge City Council election,https://en.wikipedia.org/wiki/2002_Cambridge_City_Council_election,EMBEDDING_WORD2VEC,10
+
+1950 USS Missouri grounding,https://en.wikipedia.org/wiki/1950_USS_Missouri_grounding,WORDNET,12
+
+1950 USS Missouri grounding,https://en.wikipedia.org/wiki/1950_USS_Missouri_grounding,NTH_LINK(1),19
+
+1950 USS Missouri grounding,https://en.wikipedia.org/wiki/1950_USS_Missouri_grounding,EMBEDDING_WORD2VEC,10
+
+Anwar Dangar,https://en.wikipedia.org/wiki/Anwar_Dangar,WORDNET,7
+
+Anwar Dangar,https://en.wikipedia.org/wiki/Anwar_Dangar,NTH_LINK(1),17
+
+Anwar Dangar,https://en.wikipedia.org/wiki/Anwar_Dangar,EMBEDDING_WORD2VEC,7
+
+Nicholas Lavender,https://en.wikipedia.org/wiki/Nicholas_Lavender,WORDNET,12
+
+Nicholas Lavender,https://en.wikipedia.org/wiki/Nicholas_Lavender,NTH_LINK(1),18
+
+Nicholas Lavender,https://en.wikipedia.org/wiki/Nicholas_Lavender,EMBEDDING_WORD2VEC,4
+
+Dunkeld Bridge,https://en.wikipedia.org/wiki/Dunkeld_Bridge,WORDNET,6
+
+Dunkeld Bridge,https://en.wikipedia.org/wiki/Dunkeld_Bridge,NTH_LINK(1),19
+
+Dunkeld Bridge,https://en.wikipedia.org/wiki/Dunkeld_Bridge,EMBEDDING_WORD2VEC,6
+
+Joseph Parker vs. Junior Fa,https://en.wikipedia.org/wiki/Joseph_Parker_vs._Junior_Fa,WORDNET,10
+
+Joseph Parker vs. Junior Fa,https://en.wikipedia.org/wiki/Joseph_Parker_vs._Junior_Fa,NTH_LINK(1),21
+
+Joseph Parker vs. Junior Fa,https://en.wikipedia.org/wiki/Joseph_Parker_vs._Junior_Fa,EMBEDDING_WORD2VEC,7
+
+Berle M. Schiller,https://en.wikipedia.org/wiki/Berle_M._Schiller,WORDNET,10
+
+Berle M. Schiller,https://en.wikipedia.org/wiki/Berle_M._Schiller,NTH_LINK(1),38
+
+Berle M. Schiller,https://en.wikipedia.org/wiki/Berle_M._Schiller,EMBEDDING_WORD2VEC,10
+
+Caerphilly County Borough Council,https://en.wikipedia.org/wiki/Caerphilly_County_Borough_Council,WORDNET,7
+
+Caerphilly County Borough Council,https://en.wikipedia.org/wiki/Caerphilly_County_Borough_Council,NTH_LINK(1),26
+
+Caerphilly County Borough Council,https://en.wikipedia.org/wiki/Caerphilly_County_Borough_Council,EMBEDDING_WORD2VEC,8
+
+Pennsylvania Route 249,https://en.wikipedia.org/wiki/Pennsylvania_Route_249,WORDNET,12
+
+Pennsylvania Route 249,https://en.wikipedia.org/wiki/Pennsylvania_Route_249,NTH_LINK(1),21
+
+Pennsylvania Route 249,https://en.wikipedia.org/wiki/Pennsylvania_Route_249,EMBEDDING_WORD2VEC,5
+
+Brasilia TV Tower,https://en.wikipedia.org/wiki/Brasilia_TV_Tower,WORDNET,6
+
+Brasilia TV Tower,https://en.wikipedia.org/wiki/Brasilia_TV_Tower,NTH_LINK(1),15
+
+Brasilia TV Tower,https://en.wikipedia.org/wiki/Brasilia_TV_Tower,EMBEDDING_WORD2VEC,5
+
+Diane (H�sker D� song),https://en.wikipedia.org/wiki/Diane_(H%C3%BCsker_D%C3%BC_song),WORDNET,6
+
+Diane (H�sker D� song),https://en.wikipedia.org/wiki/Diane_(H%C3%BCsker_D%C3%BC_song),NTH_LINK(1),25
+
+Diane (H�sker D� song),https://en.wikipedia.org/wiki/Diane_(H%C3%BCsker_D%C3%BC_song),EMBEDDING_WORD2VEC,8
+
+"James Livingston, 5th Earl of Linlithgow","https://en.wikipedia.org/wiki/James_Livingston,_5th_Earl_of_Linlithgow",WORDNET,7
+
+"James Livingston, 5th Earl of Linlithgow","https://en.wikipedia.org/wiki/James_Livingston,_5th_Earl_of_Linlithgow",NTH_LINK(1),11
+
+"James Livingston, 5th Earl of Linlithgow","https://en.wikipedia.org/wiki/James_Livingston,_5th_Earl_of_Linlithgow",EMBEDDING_WORD2VEC,6
+
+Andrew Underhill,https://en.wikipedia.org/wiki/Andrew_Underhill,WORDNET,10
+
+Andrew Underhill,https://en.wikipedia.org/wiki/Andrew_Underhill,NTH_LINK(1),20
+
+Andrew Underhill,https://en.wikipedia.org/wiki/Andrew_Underhill,EMBEDDING_WORD2VEC,12
+
+Montague Arms,https://en.wikipedia.org/wiki/Montague_Arms,WORDNET,10
+
+Montague Arms,https://en.wikipedia.org/wiki/Montague_Arms,NTH_LINK(1),25
+
+Montague Arms,https://en.wikipedia.org/wiki/Montague_Arms,EMBEDDING_WORD2VEC,8
+
+George Yule (linguist),https://en.wikipedia.org/wiki/George_Yule_(linguist),WORDNET,4
+
+George Yule (linguist),https://en.wikipedia.org/wiki/George_Yule_(linguist),NTH_LINK(1),13
+
+George Yule (linguist),https://en.wikipedia.org/wiki/George_Yule_(linguist),EMBEDDING_WORD2VEC,6
+
+Passover Seder,https://en.wikipedia.org/wiki/Passover_Seder,WORDNET,11
+
+Passover Seder,https://en.wikipedia.org/wiki/Passover_Seder,NTH_LINK(1),19
+
+Passover Seder,https://en.wikipedia.org/wiki/Passover_Seder,EMBEDDING_WORD2VEC,9
+
+Mikhail Gorbachev 1996 presidential campaign,https://en.wikipedia.org/wiki/Mikhail_Gorbachev_1996_presidential_campaign,WORDNET,8
+
+Mikhail Gorbachev 1996 presidential campaign,https://en.wikipedia.org/wiki/Mikhail_Gorbachev_1996_presidential_campaign,NTH_LINK(1),19
+
+Mikhail Gorbachev 1996 presidential campaign,https://en.wikipedia.org/wiki/Mikhail_Gorbachev_1996_presidential_campaign,EMBEDDING_WORD2VEC,9
+
+Frenchmans Cap National Park,https://en.wikipedia.org/wiki/Frenchmans_Cap_National_Park,WORDNET,10
+
+Frenchmans Cap National Park,https://en.wikipedia.org/wiki/Frenchmans_Cap_National_Park,NTH_LINK(1),23
+
+Frenchmans Cap National Park,https://en.wikipedia.org/wiki/Frenchmans_Cap_National_Park,EMBEDDING_WORD2VEC,4
+
+Josep M. Armengol,https://en.wikipedia.org/wiki/Josep_M._Armengol,WORDNET,15
+
+Josep M. Armengol,https://en.wikipedia.org/wiki/Josep_M._Armengol,NTH_LINK(1),37
+
+Josep M. Armengol,https://en.wikipedia.org/wiki/Josep_M._Armengol,EMBEDDING_WORD2VEC,10
+
+Ballads 'n' Bullets,https://en.wikipedia.org/wiki/Ballads_%27n%27_Bullets,WORDNET,10
+
+Ballads 'n' Bullets,https://en.wikipedia.org/wiki/Ballads_%27n%27_Bullets,NTH_LINK(1),18
+
+Ballads 'n' Bullets,https://en.wikipedia.org/wiki/Ballads_%27n%27_Bullets,EMBEDDING_WORD2VEC,8
+
+Catherine Van Rensselaer,https://en.wikipedia.org/wiki/Catherine_Van_Rensselaer,WORDNET,11
+
+Catherine Van Rensselaer,https://en.wikipedia.org/wiki/Catherine_Van_Rensselaer,NTH_LINK(1),12
+
+Catherine Van Rensselaer,https://en.wikipedia.org/wiki/Catherine_Van_Rensselaer,EMBEDDING_WORD2VEC,12
+
+Beaches International Jazz Festival,https://en.wikipedia.org/wiki/Beaches_International_Jazz_Festival,WORDNET,8
+
+Beaches International Jazz Festival,https://en.wikipedia.org/wiki/Beaches_International_Jazz_Festival,NTH_LINK(1),18
+
+Beaches International Jazz Festival,https://en.wikipedia.org/wiki/Beaches_International_Jazz_Festival,EMBEDDING_WORD2VEC,7
+
+Ingenius of Britain,https://en.wikipedia.org/wiki/Ingenius_of_Britain,WORDNET,8
+
+Ingenius of Britain,https://en.wikipedia.org/wiki/Ingenius_of_Britain,NTH_LINK(1),11
+
+Ingenius of Britain,https://en.wikipedia.org/wiki/Ingenius_of_Britain,EMBEDDING_WORD2VEC,8
+
+Tozammel Tony Huq,https://en.wikipedia.org/wiki/Tozammel_Tony_Huq,WORDNET,15
+
+Tozammel Tony Huq,https://en.wikipedia.org/wiki/Tozammel_Tony_Huq,NTH_LINK(1),15
+
+Tozammel Tony Huq,https://en.wikipedia.org/wiki/Tozammel_Tony_Huq,EMBEDDING_WORD2VEC,8
+
+Tang kwok hin,https://en.wikipedia.org/wiki/Tang_kwok_hin,WORDNET,7
+
+Tang kwok hin,https://en.wikipedia.org/wiki/Tang_kwok_hin,NTH_LINK(1),37
+
+Tang kwok hin,https://en.wikipedia.org/wiki/Tang_kwok_hin,EMBEDDING_WORD2VEC,10
+
+Drogheda Stadium,https://en.wikipedia.org/wiki/Drogheda_Stadium,WORDNET,13
+
+Drogheda Stadium,https://en.wikipedia.org/wiki/Drogheda_Stadium,NTH_LINK(1),19
+
+Drogheda Stadium,https://en.wikipedia.org/wiki/Drogheda_Stadium,EMBEDDING_WORD2VEC,11
+
+Amalgamated Society of Engineers,https://en.wikipedia.org/wiki/Amalgamated_Society_of_Engineers,WORDNET,12
+
+Amalgamated Society of Engineers,https://en.wikipedia.org/wiki/Amalgamated_Society_of_Engineers,NTH_LINK(1),23
+
+Amalgamated Society of Engineers,https://en.wikipedia.org/wiki/Amalgamated_Society_of_Engineers,EMBEDDING_WORD2VEC,10
+
+"Leopold I, Margrave of Austria","https://en.wikipedia.org/wiki/Leopold_I,_Margrave_of_Austria",WORDNET,7
+
+"Leopold I, Margrave of Austria","https://en.wikipedia.org/wiki/Leopold_I,_Margrave_of_Austria",NTH_LINK(1),24
+
+"Leopold I, Margrave of Austria","https://en.wikipedia.org/wiki/Leopold_I,_Margrave_of_Austria",EMBEDDING_WORD2VEC,9
+
+"Scrub Creek, Queensland","https://en.wikipedia.org/wiki/Scrub_Creek,_Queensland",WORDNET,13
+
+"Scrub Creek, Queensland","https://en.wikipedia.org/wiki/Scrub_Creek,_Queensland",NTH_LINK(1),18
+
+"Scrub Creek, Queensland","https://en.wikipedia.org/wiki/Scrub_Creek,_Queensland",EMBEDDING_WORD2VEC,8
+
+Helios Airways,https://en.wikipedia.org/wiki/Helios_Airways,WORDNET,8
+
+Helios Airways,https://en.wikipedia.org/wiki/Helios_Airways,NTH_LINK(1),23
+
+Helios Airways,https://en.wikipedia.org/wiki/Helios_Airways,EMBEDDING_WORD2VEC,6
+
+Terrence Romeo,https://en.wikipedia.org/wiki/Terrence_Romeo,WORDNET,9
+
+Terrence Romeo,https://en.wikipedia.org/wiki/Terrence_Romeo,NTH_LINK(1),19
+
+Terrence Romeo,https://en.wikipedia.org/wiki/Terrence_Romeo,EMBEDDING_WORD2VEC,8
+
+Berkelland,https://en.wikipedia.org/wiki/Berkelland,WORDNET,10
+
+Berkelland,https://en.wikipedia.org/wiki/Berkelland,NTH_LINK(1),29
+
+Berkelland,https://en.wikipedia.org/wiki/Berkelland,EMBEDDING_WORD2VEC,9
+
+Bert Boeren,https://en.wikipedia.org/wiki/Bert_Boeren,WORDNET,12
+
+Bert Boeren,https://en.wikipedia.org/wiki/Bert_Boeren,NTH_LINK(1),24
+
+Bert Boeren,https://en.wikipedia.org/wiki/Bert_Boeren,EMBEDDING_WORD2VEC,6
+
+2010 Machil encounter,https://en.wikipedia.org/wiki/2010_Machil_encounter,WORDNET,8
+
+2010 Machil encounter,https://en.wikipedia.org/wiki/2010_Machil_encounter,NTH_LINK(1),17
+
+2010 Machil encounter,https://en.wikipedia.org/wiki/2010_Machil_encounter,EMBEDDING_WORD2VEC,3
+
+The House of Bernarda Alba (1987 film),https://en.wikipedia.org/wiki/The_House_of_Bernarda_Alba_(1987_film),WORDNET,9
+
+The House of Bernarda Alba (1987 film),https://en.wikipedia.org/wiki/The_House_of_Bernarda_Alba_(1987_film),NTH_LINK(1),19
+
+The House of Bernarda Alba (1987 film),https://en.wikipedia.org/wiki/The_House_of_Bernarda_Alba_(1987_film),EMBEDDING_WORD2VEC,6
+
+Gaadhoo (Laamu Atoll),https://en.wikipedia.org/wiki/Gaadhoo_(Laamu_Atoll),WORDNET,8
+
+Gaadhoo (Laamu Atoll),https://en.wikipedia.org/wiki/Gaadhoo_(Laamu_Atoll),NTH_LINK(1),28
+
+Gaadhoo (Laamu Atoll),https://en.wikipedia.org/wiki/Gaadhoo_(Laamu_Atoll),EMBEDDING_WORD2VEC,8
+
+Gustave-Henri Colin,https://en.wikipedia.org/wiki/Gustave-Henri_Colin,WORDNET,6
+
+Gustave-Henri Colin,https://en.wikipedia.org/wiki/Gustave-Henri_Colin,NTH_LINK(1),23
+
+Gustave-Henri Colin,https://en.wikipedia.org/wiki/Gustave-Henri_Colin,EMBEDDING_WORD2VEC,14
+
+Surfer Jeff,https://en.wikipedia.org/wiki/Surfer_Jeff,WORDNET,5
+
+Surfer Jeff,https://en.wikipedia.org/wiki/Surfer_Jeff,NTH_LINK(1),25
+
+Surfer Jeff,https://en.wikipedia.org/wiki/Surfer_Jeff,EMBEDDING_WORD2VEC,7
+
+2009 Al Muthanna governorate election,https://en.wikipedia.org/wiki/2009_Al_Muthanna_governorate_election,WORDNET,5
+
+2009 Al Muthanna governorate election,https://en.wikipedia.org/wiki/2009_Al_Muthanna_governorate_election,NTH_LINK(1),20
+
+2009 Al Muthanna governorate election,https://en.wikipedia.org/wiki/2009_Al_Muthanna_governorate_election,EMBEDDING_WORD2VEC,4
+
+Norman four notrump,https://en.wikipedia.org/wiki/Norman_four_notrump,WORDNET,9
+
+Norman four notrump,https://en.wikipedia.org/wiki/Norman_four_notrump,NTH_LINK(1),25
+
+Norman four notrump,https://en.wikipedia.org/wiki/Norman_four_notrump,EMBEDDING_WORD2VEC,8
+
+"Edward Portman, 9th Viscount Portman","https://en.wikipedia.org/wiki/Edward_Portman,_9th_Viscount_Portman",WORDNET,16
+
+"Edward Portman, 9th Viscount Portman","https://en.wikipedia.org/wiki/Edward_Portman,_9th_Viscount_Portman",NTH_LINK(1),39
+
+"Edward Portman, 9th Viscount Portman","https://en.wikipedia.org/wiki/Edward_Portman,_9th_Viscount_Portman",EMBEDDING_WORD2VEC,9
+
+Time Apart: A History of Hope,https://en.wikipedia.org/wiki/Time_Apart:_A_History_of_Hope,WORDNET,7
+
+Time Apart: A History of Hope,https://en.wikipedia.org/wiki/Time_Apart:_A_History_of_Hope,NTH_LINK(1),19
+
+Time Apart: A History of Hope,https://en.wikipedia.org/wiki/Time_Apart:_A_History_of_Hope,EMBEDDING_WORD2VEC,9
+
+2013�14 Bemidji State Beavers women's ice hockey season,https://en.wikipedia.org/wiki/2013%E2%80%9314_Bemidji_State_Beavers_women%27s_ice_hockey_season,WORDNET,15
+
+2013�14 Bemidji State Beavers women's ice hockey season,https://en.wikipedia.org/wiki/2013%E2%80%9314_Bemidji_State_Beavers_women%27s_ice_hockey_season,NTH_LINK(1),38
+
+2013�14 Bemidji State Beavers women's ice hockey season,https://en.wikipedia.org/wiki/2013%E2%80%9314_Bemidji_State_Beavers_women%27s_ice_hockey_season,EMBEDDING_WORD2VEC,10
+
+1938 Saskatchewan general election,https://en.wikipedia.org/wiki/1938_Saskatchewan_general_election,WORDNET,6
+
+1938 Saskatchewan general election,https://en.wikipedia.org/wiki/1938_Saskatchewan_general_election,NTH_LINK(1),19
+
+1938 Saskatchewan general election,https://en.wikipedia.org/wiki/1938_Saskatchewan_general_election,EMBEDDING_WORD2VEC,6
+
+Owen Weingott,https://en.wikipedia.org/wiki/Owen_Weingott,WORDNET,9
+
+Owen Weingott,https://en.wikipedia.org/wiki/Owen_Weingott,NTH_LINK(1),24
+
+Owen Weingott,https://en.wikipedia.org/wiki/Owen_Weingott,EMBEDDING_WORD2VEC,13
+
+Center for Israel Studies (Jordan),https://en.wikipedia.org/wiki/Center_for_Israel_Studies_(Jordan),WORDNET,6
+
+Center for Israel Studies (Jordan),https://en.wikipedia.org/wiki/Center_for_Israel_Studies_(Jordan),NTH_LINK(1),16
+
+Center for Israel Studies (Jordan),https://en.wikipedia.org/wiki/Center_for_Israel_Studies_(Jordan),EMBEDDING_WORD2VEC,3
+
+Bonnie R. Cohen,https://en.wikipedia.org/wiki/Bonnie_R._Cohen,WORDNET,10
+
+Bonnie R. Cohen,https://en.wikipedia.org/wiki/Bonnie_R._Cohen,EMBEDDING_WORD2VEC,8
+
+Bonnie R. Cohen,https://en.wikipedia.org/wiki/Bonnie_R._Cohen,RANDOM,100
+
+East Branch South Fork Eel River,https://en.wikipedia.org/wiki/East_Branch_South_Fork_Eel_River,WORDNET,9
+
+East Branch South Fork Eel River,https://en.wikipedia.org/wiki/East_Branch_South_Fork_Eel_River,EMBEDDING_WORD2VEC,5
+
+East Branch South Fork Eel River,https://en.wikipedia.org/wiki/East_Branch_South_Fork_Eel_River,RANDOM,100
+
+Mercedari Palace,https://en.wikipedia.org/wiki/Mercedari_Palace,WORDNET,6
+
+Mercedari Palace,https://en.wikipedia.org/wiki/Mercedari_Palace,EMBEDDING_WORD2VEC,11
+
+Mercedari Palace,https://en.wikipedia.org/wiki/Mercedari_Palace,RANDOM,100
+
